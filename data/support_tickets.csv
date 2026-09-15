@@ -1,0 +1,1001 @@
+ticket_id,ticket_text,category,priority,resolution_time_hours
+TKT-10001,How do I update my credit card details for auto-renewal? Reference: TKT-23434 Kindly look into this matter.,billing,low,51.0
+TKT-10002,I was charged twice for my subscription this month. Please refund the extra amount. Reference: TKT-40495 This is urgent.,billing,medium,46.2
+TKT-10003,Need GST invoice for my company purchase. Thank you in advance.,billing,medium,38.4
+TKT-10004,Can I export all my data in bulk? This is urgent.,product,medium,33.6
+TKT-10005,I cannot export reports in PDF format. Button does nothing. Reference: TKT-54118 Looking forward to your response.,technical,high,7.1
+TKT-10006,My invoice shows incorrect tax calculation. Can you fix it? This is affecting my business.,billing,low,35.2
+TKT-10007,I need to merge two accounts into one. Please escalate this issue.,account,high,5.2
+TKT-10008,How many users can I add on the current plan?,product,low,86.4
+TKT-10009,I need to merge two accounts into one. Reference: TKT-39871 Please help as soon as possible.,account,medium,33.6
+TKT-10010,Please remove the old admin who left the company. Kindly look into this matter.,account,urgent,5.8
+TKT-10011,Does the tool support multi-language interface? Reference: TKT-56566 This is affecting my business.,product,medium,12.7
+TKT-10012,Real-time notifications are delayed by several minutes. Please help as soon as possible.,technical,high,23.4
+TKT-10013,API integration is failing with authentication error. I have been waiting for 3 days.,technical,medium,42.0
+TKT-10014,How can I view login history of my account? Reference: TKT-52504 Thank you in advance.,account,urgent,2.1
+TKT-10015,I was charged twice for my subscription this month. Please refund the extra amount. This is affecting my business.,billing,low,37.1
+TKT-10016,My payment method expired. How do I update it without service interruption? Reference: TKT-75435 This is affecting my business.,billing,low,37.2
+TKT-10017,Does the tool support multi-language interface? Reference: TKT-28301 Please escalate this issue.,product,urgent,2.8
+TKT-10018,Webhooks are not being triggered for new events. Looking forward to your response.,technical,high,14.5
+TKT-10019,Do you offer white-label solution for agencies? Reference: TKT-28131 This is affecting my business.,product,urgent,3.7
+TKT-10020,Does the free plan include access to the API? Reference: TKT-30969 Please help as soon as possible.,product,low,45.0
+TKT-10021,Do you offer white-label solution for agencies? I am a premium customer.,product,medium,34.0
+TKT-10022,Can I customize the dashboard widgets? This is urgent.,product,medium,17.0
+TKT-10023,I want to change from monthly to annual billing. Looking forward to your response.,billing,high,9.8
+TKT-10024,How do I transfer ownership of the account to another person? I have been waiting for 3 days.,account,low,50.4
+TKT-10025,Account recovery options are not working. I have been waiting for 3 days.,account,urgent,3.9
+TKT-10026,How do I update my credit card details for auto-renewal? Thank you in advance.,billing,urgent,6.4
+TKT-10027,Dashboard is loading very slowly for the past two days. Thank you in advance.,technical,medium,19.2
+TKT-10028,Can you explain the extra charges on my recent invoice? Reference: TKT-57576 This is urgent.,billing,medium,30.5
+TKT-10029,Please delete my account permanently as per GDPR.,account,low,66.7
+TKT-10030,I was charged for premium features I didn't use. Please help as soon as possible.,billing,high,4.9
+TKT-10031,Search functionality is not returning correct results. Reference: TKT-79163 Thank you in advance.,technical,low,67.7
+TKT-10032,What is the uptime SLA for the paid plans? Thank you in advance.,product,urgent,1.8
+TKT-10033,Getting CORS error when calling the public API. This is affecting my business.,technical,high,5.3
+TKT-10034,Can I integrate this tool with Slack and Microsoft Teams? Please help as soon as possible.,product,low,92.3
+TKT-10035,The application keeps crashing whenever I try to upload a large file. Please help as soon as possible.,technical,medium,46.8
+TKT-10036,Please pause my subscription and stop billing temporarily. This is urgent.,billing,low,82.2
+TKT-10037,How do I update my credit card details for auto-renewal? Reference: TKT-27342 Please escalate this issue.,billing,medium,23.0
+TKT-10038,What are the data retention policies? Reference: TKT-22704 I am a premium customer.,product,low,31.0
+TKT-10039,Do you offer white-label solution for agencies? Please escalate this issue.,product,medium,36.6
+TKT-10040,Received a bill for a service I never signed up for. Reference: TKT-54473 Please help as soon as possible.,billing,high,12.8
+TKT-10041,Payment failed but money was deducted from my account. Please help. Thank you in advance.,billing,low,32.8
+TKT-10042,What are the data retention policies? Kindly look into this matter.,product,low,59.7
+TKT-10043,I was charged for premium features I didn't use. Reference: TKT-95477 Thank you in advance.,billing,medium,13.2
+TKT-10044,Please pause my subscription and stop billing temporarily. Reference: TKT-73653 Kindly look into this matter.,billing,urgent,7.3
+TKT-10045,Do you offer white-label solution for agencies? Reference: TKT-10282 This is urgent.,product,low,42.6
+TKT-10046,Can I export all my data in bulk? Reference: TKT-82845 Please escalate this issue.,product,medium,35.9
+TKT-10047,How many users can I add on the current plan? Kindly look into this matter.,product,low,46.4
+TKT-10048,I was charged twice for my subscription this month. Please refund the extra amount. This is urgent.,billing,high,14.4
+TKT-10049,Webhooks are not being triggered for new events. Please help as soon as possible.,technical,low,63.4
+TKT-10050,Received a bill for a service I never signed up for. Kindly look into this matter.,billing,medium,18.7
+TKT-10051,The application keeps crashing whenever I try to upload a large file. Reference: TKT-96163,technical,medium,46.9
+TKT-10052,Please delete my account permanently as per GDPR. Reference: TKT-61876 This is affecting my business.,account,urgent,6.3
+TKT-10053,Mobile app freezes on the home screen after latest update. Please escalate this issue.,technical,high,22.8
+TKT-10054,My payment method expired. How do I update it without service interruption?,billing,low,88.4
+TKT-10055,I want to change from monthly to annual billing. Reference: TKT-55745 Looking forward to your response.,billing,medium,33.5
+TKT-10056,I cancelled my plan but still got billed. Requesting refund. Reference: TKT-81200 Looking forward to your response.,billing,urgent,7.4
+TKT-10057,Account recovery options are not working. Reference: TKT-82692 Thank you in advance.,account,high,5.8
+TKT-10058,How can I change the email address linked to my account? Reference: TKT-24029 I have been waiting for 3 days.,account,urgent,2.0
+TKT-10059,SSO login with Google is broken since yesterday. Kindly look into this matter.,technical,medium,13.6
+TKT-10060,Getting timeout errors during peak hours. Looking forward to your response.,technical,high,10.5
+TKT-10061,Please remove the old admin who left the company. Reference: TKT-65518 This is urgent.,account,urgent,3.4
+TKT-10062,My account was locked after multiple failed login attempts. I have been waiting for 3 days.,account,low,43.5
+TKT-10063,Need to update company name and address in profile. Thank you in advance.,account,low,83.7
+TKT-10064,Please pause my subscription and stop billing temporarily. I have been waiting for 3 days.,billing,low,49.7
+TKT-10065,I need to add a new team member with admin privileges. Reference: TKT-50404 I am a premium customer.,account,medium,22.1
+TKT-10066,Account recovery options are not working. This is urgent.,account,urgent,4.6
+TKT-10067,File upload progress bar stuck at 99%. Please help as soon as possible.,technical,high,6.8
+TKT-10068,How does the AI feature work and is it included? I have been waiting for 3 days.,product,urgent,6.5
+TKT-10069,The system is showing old data even after refresh. I have been waiting for 3 days.,technical,urgent,1.1
+TKT-10070,Please pause my subscription and stop billing temporarily. This is affecting my business.,billing,low,95.1
+TKT-10071,Is there a desktop application available? Reference: TKT-24168 Kindly look into this matter.,product,high,19.4
+TKT-10072,Is there a desktop application available? Reference: TKT-70332 Please escalate this issue.,product,urgent,2.0
+TKT-10073,Account recovery options are not working. Reference: TKT-96511 Kindly look into this matter.,account,medium,12.2
+TKT-10074,Mobile app freezes on the home screen after latest update. Please help as soon as possible.,technical,medium,41.4
+TKT-10075,I want to enable two-factor authentication. I am a premium customer.,account,medium,37.4
+TKT-10076,How can I change the email address linked to my account? Reference: TKT-44795 Looking forward to your response.,account,urgent,6.0
+TKT-10077,There is a discrepancy in the billing amount for enterprise plan. This is affecting my business.,billing,low,79.5
+TKT-10078,I want to enable two-factor authentication. Please help as soon as possible.,account,medium,14.7
+TKT-10079,Real-time notifications are delayed by several minutes. Reference: TKT-80575 I am a premium customer.,technical,medium,24.9
+TKT-10080,I am unable to login. Getting error 500 internal server error. This is affecting my business.,technical,medium,16.2
+TKT-10081,How do I update my credit card details for auto-renewal? Thank you in advance.,billing,high,21.3
+TKT-10082,How does the AI feature work and is it included? Looking forward to your response.,product,medium,34.4
+TKT-10083,Getting CORS error when calling the public API. I have been waiting for 3 days.,technical,medium,23.9
+TKT-10084,Please remove the old admin who left the company. This is urgent.,account,medium,14.3
+TKT-10085,SSO login with Google is broken since yesterday.,technical,medium,23.2
+TKT-10086,Does the tool support multi-language interface? Kindly look into this matter.,product,medium,23.7
+TKT-10087,Mobile app freezes on the home screen after latest update. Thank you in advance.,technical,high,18.6
+TKT-10088,Account recovery options are not working. Kindly look into this matter.,account,low,69.9
+TKT-10089,Dashboard is loading very slowly for the past two days. Reference: TKT-72277 This is urgent.,technical,high,21.7
+TKT-10090,Please pause my subscription and stop billing temporarily. Reference: TKT-60328,billing,medium,29.0
+TKT-10091,Is there a dark mode available in the application? This is urgent.,product,medium,16.3
+TKT-10092,Payment failed but money was deducted from my account. Please help. I have been waiting for 3 days.,billing,high,18.3
+TKT-10093,Can I integrate this tool with Slack and Microsoft Teams? Please help as soon as possible.,product,low,78.8
+TKT-10094,Can I customize the dashboard widgets?,product,high,15.2
+TKT-10095,How does the AI feature work and is it included? Thank you in advance.,product,high,19.4
+TKT-10096,How does the AI feature work and is it included? Please escalate this issue.,product,urgent,4.2
+TKT-10097,Mobile app freezes on the home screen after latest update. Thank you in advance.,technical,high,14.5
+TKT-10098,I am unable to login. Getting error 500 internal server error. Reference: TKT-54020 Looking forward to your response.,technical,medium,27.4
+TKT-10099,How can I change the email address linked to my account? Reference: TKT-60205 I have been waiting for 3 days.,account,urgent,0.7
+TKT-10100,I am unable to login. Getting error 500 internal server error. I am a premium customer.,technical,high,6.2
+TKT-10101,Can I integrate this tool with Slack and Microsoft Teams? I am a premium customer.,product,medium,13.1
+TKT-10102,The promotional discount was not applied to my bill.,billing,urgent,5.3
+TKT-10103,How do I update my credit card details for auto-renewal? I am a premium customer.,billing,urgent,2.9
+TKT-10104,How does the AI feature work and is it included? Thank you in advance.,product,medium,30.3
+TKT-10105,Mobile app freezes on the home screen after latest update. I am a premium customer.,technical,medium,44.7
+TKT-10106,Does the tool support multi-language interface? I am a premium customer.,product,medium,21.0
+TKT-10107,Is there a public roadmap for upcoming features? Reference: TKT-61645 Thank you in advance.,product,urgent,3.6
+TKT-10108,There is a discrepancy in the billing amount for enterprise plan. I have been waiting for 3 days.,billing,low,78.4
+TKT-10109,Getting CORS error when calling the public API. Reference: TKT-52840 This is affecting my business.,technical,low,40.5
+TKT-10110,How do I transfer ownership of the account to another person? Looking forward to your response.,account,high,5.5
+TKT-10111,What is the difference between Pro and Enterprise plans? Reference: TKT-80702 Please escalate this issue.,product,medium,22.4
+TKT-10112,I cancelled my plan but still got billed. Requesting refund. Kindly look into this matter.,billing,urgent,1.7
+TKT-10113,Payment failed but money was deducted from my account. Please help. Kindly look into this matter.,billing,high,22.6
+TKT-10114,Search functionality is not returning correct results. Please help as soon as possible.,technical,low,82.2
+TKT-10115,Mobile app freezes on the home screen after latest update. Reference: TKT-89593 This is affecting my business.,technical,medium,34.8
+TKT-10116,I need a copy of last month's invoice for accounting purposes. Reference: TKT-13365 Looking forward to your response.,billing,high,21.4
+TKT-10117,I cannot change my username. Is it permanent? I am a premium customer.,account,medium,40.9
+TKT-10118,Real-time notifications are delayed by several minutes. Reference: TKT-49529 Kindly look into this matter.,technical,low,37.4
+TKT-10119,My payment method expired. How do I update it without service interruption? This is urgent.,billing,high,21.9
+TKT-10120,What is the difference between Pro and Enterprise plans? Thank you in advance.,product,high,14.8
+TKT-10121,I was charged for premium features I didn't use. Reference: TKT-57472 Please escalate this issue.,billing,high,20.1
+TKT-10122,Do you offer white-label solution for agencies? I have been waiting for 3 days.,product,high,21.9
+TKT-10123,I cannot change my username. Is it permanent? Thank you in advance.,account,high,10.4
+TKT-10124,How does the AI feature work and is it included? Reference: TKT-42177,product,medium,16.0
+TKT-10125,Can you explain the extra charges on my recent invoice? Kindly look into this matter.,billing,medium,20.2
+TKT-10126,What are the data retention policies? Reference: TKT-37802 This is affecting my business.,product,medium,27.4
+TKT-10127,My account was locked after multiple failed login attempts. Looking forward to your response.,account,high,20.4
+TKT-10128,I want to enable two-factor authentication. Reference: TKT-63271 Kindly look into this matter.,account,medium,43.0
+TKT-10129,Can I integrate this tool with Slack and Microsoft Teams? Please escalate this issue.,product,medium,12.3
+TKT-10130,Does the free plan include access to the API? Reference: TKT-63005 Please help as soon as possible.,product,medium,30.4
+TKT-10131,SSO login with Google is broken since yesterday. This is affecting my business.,technical,medium,27.0
+TKT-10132,I need to merge two accounts into one. Thank you in advance.,account,medium,20.0
+TKT-10133,How many users can I add on the current plan? Reference: TKT-35242 Kindly look into this matter.,product,medium,16.3
+TKT-10134,I want to enable two-factor authentication. Reference: TKT-73464 I have been waiting for 3 days.,account,low,48.3
+TKT-10135,Account recovery options are not working. Thank you in advance.,account,high,22.9
+TKT-10136,How do I update my credit card details for auto-renewal? Kindly look into this matter.,billing,high,10.5
+TKT-10137,I want to enable two-factor authentication. Reference: TKT-17146 I have been waiting for 3 days.,account,low,61.4
+TKT-10138,I need to add a new team member with admin privileges. Reference: TKT-11607 Please escalate this issue.,account,high,18.1
+TKT-10139,Need to update company name and address in profile. Reference: TKT-16734 This is affecting my business.,account,medium,25.1
+TKT-10140,Need to update company name and address in profile. Please help as soon as possible.,account,urgent,7.8
+TKT-10141,Is there a public roadmap for upcoming features? Reference: TKT-83772 This is urgent.,product,medium,46.6
+TKT-10142,Please delete my account permanently as per GDPR. Please help as soon as possible.,account,low,42.1
+TKT-10143,Can I export all my data in bulk? Reference: TKT-78494,product,high,13.9
+TKT-10144,What are the data retention policies? Looking forward to your response.,product,medium,22.8
+TKT-10145,Is there a public roadmap for upcoming features? This is urgent.,product,medium,22.3
+TKT-10146,Payment failed but money was deducted from my account. Please help. Reference: TKT-20641 Kindly look into this matter.,billing,urgent,0.8
+TKT-10147,Webhooks are not being triggered for new events. Reference: TKT-63545 Please help as soon as possible.,technical,low,67.9
+TKT-10148,What are the data retention policies? Reference: TKT-47762 Looking forward to your response.,product,high,14.1
+TKT-10149,Need to update company name and address in profile. Please help as soon as possible.,account,high,5.0
+TKT-10150,How can I view login history of my account?,account,high,9.6
+TKT-10151,Webhooks are not being triggered for new events. Kindly look into this matter.,technical,medium,44.7
+TKT-10152,How can I change the email address linked to my account? Reference: TKT-50319 This is urgent.,account,high,8.8
+TKT-10153,Need to update company name and address in profile. Looking forward to your response.,account,medium,17.2
+TKT-10154,Need to update company name and address in profile. Reference: TKT-15224 Please escalate this issue.,account,medium,29.6
+TKT-10155,Is there a public roadmap for upcoming features? Reference: TKT-40005 Looking forward to your response.,product,high,23.7
+TKT-10156,Received a bill for a service I never signed up for. Looking forward to your response.,billing,urgent,2.3
+TKT-10157,File upload progress bar stuck at 99%. Please escalate this issue.,technical,medium,36.2
+TKT-10158,Getting CORS error when calling the public API. Please escalate this issue.,technical,urgent,6.2
+TKT-10159,Is offline mode supported on the mobile app? This is affecting my business.,product,medium,20.6
+TKT-10160,Real-time notifications are delayed by several minutes. Reference: TKT-62488 Please escalate this issue.,technical,medium,38.2
+TKT-10161,I cancelled my plan but still got billed. Requesting refund. Looking forward to your response.,billing,medium,25.2
+TKT-10162,Is there a desktop application available? This is urgent.,product,urgent,5.2
+TKT-10163,Can I integrate this tool with Slack and Microsoft Teams? Thank you in advance.,product,medium,34.8
+TKT-10164,Can I export all my data in bulk? Reference: TKT-81987 This is urgent.,product,high,14.7
+TKT-10165,Search functionality is not returning correct results. Reference: TKT-92578 Please escalate this issue.,technical,urgent,1.2
+TKT-10166,Mobile app freezes on the home screen after latest update. Reference: TKT-63476 Thank you in advance.,technical,high,20.7
+TKT-10167,I was charged for premium features I didn't use. Please help as soon as possible.,billing,low,47.1
+TKT-10168,I need a copy of last month's invoice for accounting purposes. Please escalate this issue.,billing,high,7.7
+TKT-10169,I am unable to verify my phone number for 2FA. I am a premium customer.,account,medium,13.5
+TKT-10170,Can I customize the dashboard widgets? I have been waiting for 3 days.,product,low,66.5
+TKT-10171,Mobile app freezes on the home screen after latest update. I am a premium customer.,technical,urgent,5.6
+TKT-10172,I am unable to verify my phone number for 2FA. Looking forward to your response.,account,high,4.3
+TKT-10173,What are the data retention policies? Thank you in advance.,product,urgent,4.3
+TKT-10174,I want to enable two-factor authentication. I am a premium customer.,account,medium,20.2
+TKT-10175,I need to merge two accounts into one. Kindly look into this matter.,account,urgent,5.3
+TKT-10176,Getting CORS error when calling the public API. This is urgent.,technical,urgent,1.8
+TKT-10177,Can I export all my data in bulk? I am a premium customer.,product,high,17.8
+TKT-10178,The application keeps crashing whenever I try to upload a large file. I have been waiting for 3 days.,technical,medium,25.9
+TKT-10179,Please remove the old admin who left the company. Reference: TKT-69890 Please escalate this issue.,account,urgent,7.5
+TKT-10180,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-44737 I have been waiting for 3 days.,billing,high,6.8
+TKT-10181,How do I transfer ownership of the account to another person? Please help as soon as possible.,account,high,10.8
+TKT-10182,Does the tool support multi-language interface? Please escalate this issue.,product,urgent,1.4
+TKT-10183,Payment failed but money was deducted from my account. Please help. Looking forward to your response.,billing,high,22.5
+TKT-10184,My invoice shows incorrect tax calculation. Can you fix it? Please help as soon as possible.,billing,medium,43.6
+TKT-10185,I forgot my password and the reset email is not arriving. This is affecting my business.,account,urgent,2.4
+TKT-10186,How do I transfer ownership of the account to another person? Reference: TKT-64008 I have been waiting for 3 days.,account,medium,35.8
+TKT-10187,I am unable to login. Getting error 500 internal server error.,technical,low,82.8
+TKT-10188,SSO login with Google is broken since yesterday. Reference: TKT-93611 I have been waiting for 3 days.,technical,medium,32.0
+TKT-10189,How can I view login history of my account? This is urgent.,account,medium,31.1
+TKT-10190,Does the tool support multi-language interface? Reference: TKT-67898 Thank you in advance.,product,urgent,2.3
+TKT-10191,I am unable to verify my phone number for 2FA. I am a premium customer.,account,urgent,1.2
+TKT-10192,Can I integrate this tool with Slack and Microsoft Teams? I am a premium customer.,product,high,21.9
+TKT-10193,My payment method expired. How do I update it without service interruption? This is affecting my business.,billing,low,88.8
+TKT-10194,Please remove the old admin who left the company. Reference: TKT-84177 I am a premium customer.,account,low,69.6
+TKT-10195,Need GST invoice for my company purchase. Please escalate this issue.,billing,urgent,3.0
+TKT-10196,Please delete my account permanently as per GDPR.,account,high,11.0
+TKT-10197,SSO login with Google is broken since yesterday. Looking forward to your response.,technical,high,18.5
+TKT-10198,Chrome extension is not syncing with the web app. This is urgent.,technical,high,21.9
+TKT-10199,Is offline mode supported on the mobile app? Reference: TKT-48680 I have been waiting for 3 days.,product,low,87.9
+TKT-10200,I need to add a new team member with admin privileges. Reference: TKT-80701 Kindly look into this matter.,account,high,19.6
+TKT-10201,I cannot change my username. Is it permanent? Looking forward to your response.,account,medium,35.1
+TKT-10202,Need to update company name and address in profile. Looking forward to your response.,account,urgent,1.1
+TKT-10203,Need to update company name and address in profile. Reference: TKT-39571 Please help as soon as possible.,account,high,7.2
+TKT-10204,Can I export all my data in bulk? Thank you in advance.,product,urgent,7.2
+TKT-10205,Can I customize the dashboard widgets? Please help as soon as possible.,product,low,67.7
+TKT-10206,Please remove the old admin who left the company. Reference: TKT-40647 This is affecting my business.,account,medium,12.3
+TKT-10207,What is the uptime SLA for the paid plans? Thank you in advance.,product,low,31.3
+TKT-10208,File upload progress bar stuck at 99%. Please escalate this issue.,technical,high,17.3
+TKT-10209,How can I change the email address linked to my account? Reference: TKT-14877 I have been waiting for 3 days.,account,high,4.1
+TKT-10210,How can I change the email address linked to my account? Reference: TKT-80457 Please help as soon as possible.,account,urgent,1.7
+TKT-10211,I cannot export reports in PDF format. Button does nothing. Thank you in advance.,technical,medium,31.8
+TKT-10212,File upload progress bar stuck at 99%. Please help as soon as possible.,technical,urgent,5.7
+TKT-10213,How many users can I add on the current plan? This is urgent.,product,urgent,5.4
+TKT-10214,API integration is failing with authentication error. Reference: TKT-99873 This is affecting my business.,technical,medium,20.1
+TKT-10215,How can I view login history of my account? Reference: TKT-46160 This is affecting my business.,account,medium,37.6
+TKT-10216,Getting timeout errors during peak hours. Reference: TKT-37801 Please escalate this issue.,technical,urgent,2.3
+TKT-10217,I cancelled my plan but still got billed. Requesting refund. Kindly look into this matter.,billing,low,47.4
+TKT-10218,The system is showing old data even after refresh. Reference: TKT-38305 Thank you in advance.,technical,low,77.7
+TKT-10219,Dashboard is loading very slowly for the past two days. Reference: TKT-28964,technical,medium,35.4
+TKT-10220,The system is showing old data even after refresh. Reference: TKT-13379 I have been waiting for 3 days.,technical,medium,42.6
+TKT-10221,The system is showing old data even after refresh. Kindly look into this matter.,technical,low,71.3
+TKT-10222,I was charged twice for my subscription this month. Please refund the extra amount. I have been waiting for 3 days.,billing,low,64.9
+TKT-10223,Can you explain the extra charges on my recent invoice? Please escalate this issue.,billing,high,5.9
+TKT-10224,Payment failed but money was deducted from my account. Please help. Reference: TKT-96363,billing,medium,25.2
+TKT-10225,I forgot my password and the reset email is not arriving. This is urgent.,account,medium,21.5
+TKT-10226,What is the difference between Pro and Enterprise plans? Please escalate this issue.,product,medium,20.8
+TKT-10227,What is the difference between Pro and Enterprise plans? This is affecting my business.,product,low,94.1
+TKT-10228,My payment method expired. How do I update it without service interruption?,billing,low,52.3
+TKT-10229,Someone else has access to my account. Please secure it. Reference: TKT-76263 Thank you in advance.,account,medium,44.1
+TKT-10230,How does the AI feature work and is it included? Please help as soon as possible.,product,low,69.4
+TKT-10231,Chrome extension is not syncing with the web app. Kindly look into this matter.,technical,medium,40.6
+TKT-10232,How does the AI feature work and is it included? Please help as soon as possible.,product,medium,30.1
+TKT-10233,My account was locked after multiple failed login attempts. I have been waiting for 3 days.,account,high,15.5
+TKT-10234,Is there a desktop application available? Reference: TKT-22656 Please help as soon as possible.,product,low,59.5
+TKT-10235,I want to enable two-factor authentication. This is urgent.,account,high,7.9
+TKT-10236,How do I transfer ownership of the account to another person? This is affecting my business.,account,high,18.4
+TKT-10237,How does the AI feature work and is it included? This is urgent.,product,urgent,2.6
+TKT-10238,Someone else has access to my account. Please secure it. Reference: TKT-96079 Thank you in advance.,account,medium,12.9
+TKT-10239,What is the difference between Pro and Enterprise plans? This is affecting my business.,product,low,70.5
+TKT-10240,I am unable to verify my phone number for 2FA. Reference: TKT-66244,account,low,36.8
+TKT-10241,Received a bill for a service I never signed up for. Reference: TKT-45818 Looking forward to your response.,billing,high,22.8
+TKT-10242,My account was locked after multiple failed login attempts. Reference: TKT-28776 This is urgent.,account,urgent,7.7
+TKT-10243,How does the AI feature work and is it included? Reference: TKT-79531 This is urgent.,product,low,89.9
+TKT-10244,Search functionality is not returning correct results. Reference: TKT-50846 This is affecting my business.,technical,medium,25.3
+TKT-10245,Someone else has access to my account. Please secure it. Reference: TKT-16895,account,high,4.3
+TKT-10246,SSO login with Google is broken since yesterday. This is urgent.,technical,low,90.8
+TKT-10247,How do I transfer ownership of the account to another person? Please escalate this issue.,account,medium,27.4
+TKT-10248,Can I export all my data in bulk? Reference: TKT-66349 Thank you in advance.,product,medium,46.8
+TKT-10249,Received a bill for a service I never signed up for.,billing,medium,46.7
+TKT-10250,How do I transfer ownership of the account to another person? Reference: TKT-36794,account,low,85.4
+TKT-10251,Account recovery options are not working. I have been waiting for 3 days.,account,urgent,2.7
+TKT-10252,I forgot my password and the reset email is not arriving. Please escalate this issue.,account,medium,25.9
+TKT-10253,Webhooks are not being triggered for new events. Kindly look into this matter.,technical,low,85.3
+TKT-10254,Please remove the old admin who left the company. This is urgent.,account,low,46.8
+TKT-10255,Is there a desktop application available? This is affecting my business.,product,urgent,1.8
+TKT-10256,Do you offer white-label solution for agencies? Reference: TKT-12733 Looking forward to your response.,product,high,15.1
+TKT-10257,Someone else has access to my account. Please secure it. Please escalate this issue.,account,low,91.4
+TKT-10258,Please remove the old admin who left the company. Reference: TKT-87184 Please help as soon as possible.,account,low,74.1
+TKT-10259,Do you offer white-label solution for agencies? Looking forward to your response.,product,medium,32.5
+TKT-10260,Dashboard is loading very slowly for the past two days. Please help as soon as possible.,technical,medium,15.5
+TKT-10261,Payment failed but money was deducted from my account. Please help. This is affecting my business.,billing,medium,34.1
+TKT-10262,Dashboard is loading very slowly for the past two days. Reference: TKT-88957 Looking forward to your response.,technical,low,95.3
+TKT-10263,File upload progress bar stuck at 99%. Reference: TKT-92306 Please help as soon as possible.,technical,high,6.8
+TKT-10264,Is there a public roadmap for upcoming features?,product,medium,30.7
+TKT-10265,How can I view login history of my account? Reference: TKT-18950 This is affecting my business.,account,urgent,7.1
+TKT-10266,How many users can I add on the current plan? Looking forward to your response.,product,medium,38.7
+TKT-10267,I am unable to verify my phone number for 2FA. Please escalate this issue.,account,medium,37.1
+TKT-10268,How do I update my credit card details for auto-renewal? Please help as soon as possible.,billing,medium,37.3
+TKT-10269,I want to change from monthly to annual billing. I am a premium customer.,billing,high,11.2
+TKT-10270,The promotional discount was not applied to my bill.,billing,medium,22.6
+TKT-10271,I want to enable two-factor authentication. I have been waiting for 3 days.,account,high,20.2
+TKT-10272,What is the uptime SLA for the paid plans? This is affecting my business.,product,low,82.3
+TKT-10273,I need a copy of last month's invoice for accounting purposes. Reference: TKT-67377 This is urgent.,billing,medium,43.2
+TKT-10274,Is there a public roadmap for upcoming features? I have been waiting for 3 days.,product,medium,44.9
+TKT-10275,Account recovery options are not working. This is affecting my business.,account,medium,30.4
+TKT-10276,Received a bill for a service I never signed up for. Reference: TKT-22387 This is affecting my business.,billing,high,14.0
+TKT-10277,How does the AI feature work and is it included?,product,medium,40.7
+TKT-10278,How can I view login history of my account? I have been waiting for 3 days.,account,low,70.8
+TKT-10279,I need to merge two accounts into one. Reference: TKT-21104 I am a premium customer.,account,urgent,5.8
+TKT-10280,How can I view login history of my account? This is affecting my business.,account,medium,40.6
+TKT-10281,There is a discrepancy in the billing amount for enterprise plan. Thank you in advance.,billing,high,21.8
+TKT-10282,Please delete my account permanently as per GDPR. This is affecting my business.,account,medium,24.2
+TKT-10283,Is there a dark mode available in the application? Reference: TKT-23256 I have been waiting for 3 days.,product,low,51.0
+TKT-10284,Please pause my subscription and stop billing temporarily. Reference: TKT-59377,billing,high,5.9
+TKT-10285,Getting timeout errors during peak hours.,technical,low,65.6
+TKT-10286,The application keeps crashing whenever I try to upload a large file. I am a premium customer.,technical,high,4.7
+TKT-10287,SSO login with Google is broken since yesterday. Looking forward to your response.,technical,urgent,4.0
+TKT-10288,Can I integrate this tool with Slack and Microsoft Teams? Looking forward to your response.,product,low,63.1
+TKT-10289,Can I integrate this tool with Slack and Microsoft Teams? This is affecting my business.,product,urgent,2.6
+TKT-10290,How many users can I add on the current plan? I am a premium customer.,product,medium,33.3
+TKT-10291,Is there a desktop application available? Kindly look into this matter.,product,urgent,0.7
+TKT-10292,The application keeps crashing whenever I try to upload a large file. Please escalate this issue.,technical,urgent,0.8
+TKT-10293,I want to change from monthly to annual billing. Reference: TKT-31012 Please help as soon as possible.,billing,high,20.5
+TKT-10294,I want to enable two-factor authentication. I have been waiting for 3 days.,account,medium,25.0
+TKT-10295,Payment failed but money was deducted from my account. Please help. Please escalate this issue.,billing,urgent,1.5
+TKT-10296,There is a discrepancy in the billing amount for enterprise plan. Thank you in advance.,billing,medium,30.8
+TKT-10297,Is offline mode supported on the mobile app? Reference: TKT-22987 Kindly look into this matter.,product,urgent,6.3
+TKT-10298,I need to add a new team member with admin privileges. Reference: TKT-71925 This is urgent.,account,high,8.3
+TKT-10299,Search functionality is not returning correct results. Please escalate this issue.,technical,high,16.5
+TKT-10300,Payment failed but money was deducted from my account. Please help. I have been waiting for 3 days.,billing,low,30.1
+TKT-10301,How many users can I add on the current plan? Kindly look into this matter.,product,low,27.7
+TKT-10302,Received a bill for a service I never signed up for.,billing,low,62.3
+TKT-10303,Can you explain the extra charges on my recent invoice?,billing,high,14.8
+TKT-10304,Mobile app freezes on the home screen after latest update. Reference: TKT-56244 I am a premium customer.,technical,high,16.7
+TKT-10305,Dashboard is loading very slowly for the past two days. Please help as soon as possible.,technical,medium,38.1
+TKT-10306,I want to enable two-factor authentication. Thank you in advance.,account,low,94.3
+TKT-10307,Can you explain the extra charges on my recent invoice? This is urgent.,billing,medium,30.6
+TKT-10308,I forgot my password and the reset email is not arriving. This is affecting my business.,account,medium,23.6
+TKT-10309,How can I view login history of my account? Please help as soon as possible.,account,low,81.3
+TKT-10310,My account was locked after multiple failed login attempts. Thank you in advance.,account,low,43.5
+TKT-10311,File upload progress bar stuck at 99%. Please escalate this issue.,technical,high,12.8
+TKT-10312,Can I export all my data in bulk? Reference: TKT-69988 I have been waiting for 3 days.,product,high,5.6
+TKT-10313,I was charged twice for my subscription this month. Please refund the extra amount. Kindly look into this matter.,billing,medium,12.9
+TKT-10314,I want to enable two-factor authentication. I am a premium customer.,account,urgent,7.7
+TKT-10315,Can I export all my data in bulk? Reference: TKT-16265 Kindly look into this matter.,product,medium,42.1
+TKT-10316,Account recovery options are not working. This is affecting my business.,account,medium,37.1
+TKT-10317,What is the uptime SLA for the paid plans? I am a premium customer.,product,high,12.2
+TKT-10318,Search functionality is not returning correct results. This is affecting my business.,technical,medium,18.2
+TKT-10319,I need to merge two accounts into one. Reference: TKT-88964 I am a premium customer.,account,high,7.1
+TKT-10320,I cannot export reports in PDF format. Button does nothing. Reference: TKT-96628 Please help as soon as possible.,technical,medium,21.0
+TKT-10321,Someone else has access to my account. Please secure it. Reference: TKT-68183 I am a premium customer.,account,medium,31.8
+TKT-10322,I need to merge two accounts into one. This is affecting my business.,account,medium,37.7
+TKT-10323,Can I export all my data in bulk? Reference: TKT-93560 This is urgent.,product,medium,35.8
+TKT-10324,Can I export all my data in bulk? I have been waiting for 3 days.,product,medium,22.1
+TKT-10325,File upload progress bar stuck at 99%. Reference: TKT-18812 Please escalate this issue.,technical,high,23.1
+TKT-10326,I cannot export reports in PDF format. Button does nothing. This is affecting my business.,technical,high,18.8
+TKT-10327,Received a bill for a service I never signed up for. Please escalate this issue.,billing,high,15.1
+TKT-10328,How can I change the email address linked to my account? Reference: TKT-58096,account,medium,34.0
+TKT-10329,How many users can I add on the current plan? Kindly look into this matter.,product,medium,27.1
+TKT-10330,Can you explain the extra charges on my recent invoice? Thank you in advance.,billing,high,9.0
+TKT-10331,How do I update my credit card details for auto-renewal? Reference: TKT-90199 Please escalate this issue.,billing,medium,24.8
+TKT-10332,Need to update company name and address in profile. Reference: TKT-19706 Kindly look into this matter.,account,high,19.2
+TKT-10333,How does the AI feature work and is it included? Please escalate this issue.,product,low,25.0
+TKT-10334,I need to merge two accounts into one. Please help as soon as possible.,account,high,6.3
+TKT-10335,Please remove the old admin who left the company. I have been waiting for 3 days.,account,urgent,0.8
+TKT-10336,Webhooks are not being triggered for new events. Reference: TKT-36342 Kindly look into this matter.,technical,high,4.8
+TKT-10337,Search functionality is not returning correct results. This is urgent.,technical,low,85.6
+TKT-10338,I want to enable two-factor authentication. I have been waiting for 3 days.,account,medium,37.3
+TKT-10339,There is a discrepancy in the billing amount for enterprise plan. Please escalate this issue.,billing,low,58.1
+TKT-10340,What is the difference between Pro and Enterprise plans? I have been waiting for 3 days.,product,high,6.0
+TKT-10341,Received a bill for a service I never signed up for. Thank you in advance.,billing,medium,29.7
+TKT-10342,Dashboard is loading very slowly for the past two days. I am a premium customer.,technical,high,13.5
+TKT-10343,I want to change from monthly to annual billing. I have been waiting for 3 days.,billing,high,7.5
+TKT-10344,Real-time notifications are delayed by several minutes. Kindly look into this matter.,technical,medium,27.6
+TKT-10345,I am unable to verify my phone number for 2FA. Kindly look into this matter.,account,high,12.0
+TKT-10346,I am unable to verify my phone number for 2FA.,account,low,68.3
+TKT-10347,SSO login with Google is broken since yesterday. Reference: TKT-91851 I have been waiting for 3 days.,technical,medium,34.9
+TKT-10348,Someone else has access to my account. Please secure it. This is urgent.,account,high,4.9
+TKT-10349,Received a bill for a service I never signed up for. Reference: TKT-37631,billing,low,51.0
+TKT-10350,Does the free plan include access to the API? Please escalate this issue.,product,high,16.5
+TKT-10351,I am unable to verify my phone number for 2FA. Reference: TKT-99783 Please escalate this issue.,account,high,14.1
+TKT-10352,What is the difference between Pro and Enterprise plans? Reference: TKT-64476 This is urgent.,product,medium,42.8
+TKT-10353,Is offline mode supported on the mobile app? Reference: TKT-51853,product,medium,35.7
+TKT-10354,I need to add a new team member with admin privileges. This is affecting my business.,account,urgent,1.7
+TKT-10355,Can you explain the extra charges on my recent invoice? Reference: TKT-42495 Please help as soon as possible.,billing,medium,14.5
+TKT-10356,Mobile app freezes on the home screen after latest update. I am a premium customer.,technical,low,70.3
+TKT-10357,Is there a desktop application available? I have been waiting for 3 days.,product,low,25.9
+TKT-10358,I need to add a new team member with admin privileges. Please escalate this issue.,account,low,66.2
+TKT-10359,How many users can I add on the current plan? Reference: TKT-61543 Please escalate this issue.,product,medium,45.8
+TKT-10360,Can I integrate this tool with Slack and Microsoft Teams?,product,urgent,4.8
+TKT-10361,My payment method expired. How do I update it without service interruption? Reference: TKT-11071 Please escalate this issue.,billing,medium,26.0
+TKT-10362,Please pause my subscription and stop billing temporarily. Looking forward to your response.,billing,medium,35.2
+TKT-10363,Do you offer white-label solution for agencies? This is urgent.,product,medium,28.5
+TKT-10364,Mobile app freezes on the home screen after latest update. Please help as soon as possible.,technical,medium,31.6
+TKT-10365,How many users can I add on the current plan?,product,high,22.8
+TKT-10366,My invoice shows incorrect tax calculation. Can you fix it? I am a premium customer.,billing,low,51.8
+TKT-10367,My account was locked after multiple failed login attempts. Reference: TKT-76731 I have been waiting for 3 days.,account,medium,46.6
+TKT-10368,Does the free plan include access to the API? Reference: TKT-53652 This is urgent.,product,medium,44.6
+TKT-10369,Is there a dark mode available in the application?,product,medium,19.0
+TKT-10370,SSO login with Google is broken since yesterday. Reference: TKT-90805 This is affecting my business.,technical,medium,14.5
+TKT-10371,I want to enable two-factor authentication. Thank you in advance.,account,medium,15.6
+TKT-10372,I forgot my password and the reset email is not arriving. This is affecting my business.,account,medium,12.7
+TKT-10373,My payment method expired. How do I update it without service interruption? Looking forward to your response.,billing,urgent,1.2
+TKT-10374,How do I update my credit card details for auto-renewal?,billing,medium,36.6
+TKT-10375,I need a copy of last month's invoice for accounting purposes. Thank you in advance.,billing,medium,14.6
+TKT-10376,Does the tool support multi-language interface? Reference: TKT-24404 Kindly look into this matter.,product,low,47.0
+TKT-10377,I cannot export reports in PDF format. Button does nothing. Reference: TKT-36724 I am a premium customer.,technical,low,84.8
+TKT-10378,Is there a public roadmap for upcoming features? Please escalate this issue.,product,medium,12.8
+TKT-10379,I want to change from monthly to annual billing. Kindly look into this matter.,billing,high,20.3
+TKT-10380,Is offline mode supported on the mobile app? I have been waiting for 3 days.,product,medium,22.1
+TKT-10381,How can I view login history of my account? Looking forward to your response.,account,medium,16.3
+TKT-10382,Mobile app freezes on the home screen after latest update. Reference: TKT-49008 Thank you in advance.,technical,urgent,5.7
+TKT-10383,I need to merge two accounts into one. Please escalate this issue.,account,high,16.6
+TKT-10384,I cannot change my username. Is it permanent? Reference: TKT-85166 Looking forward to your response.,account,medium,43.6
+TKT-10385,Do you offer white-label solution for agencies? This is affecting my business.,product,urgent,6.0
+TKT-10386,Mobile app freezes on the home screen after latest update. Please help as soon as possible.,technical,medium,40.9
+TKT-10387,How does the AI feature work and is it included? Reference: TKT-80592 Please escalate this issue.,product,high,9.6
+TKT-10388,I need to merge two accounts into one. Reference: TKT-90698 Looking forward to your response.,account,urgent,1.8
+TKT-10389,File upload progress bar stuck at 99%. Reference: TKT-40518 Thank you in advance.,technical,low,78.0
+TKT-10390,I cancelled my plan but still got billed. Requesting refund. Reference: TKT-28018 Please escalate this issue.,billing,low,82.1
+TKT-10391,Please pause my subscription and stop billing temporarily. I have been waiting for 3 days.,billing,urgent,7.9
+TKT-10392,Can I integrate this tool with Slack and Microsoft Teams? Looking forward to your response.,product,medium,26.9
+TKT-10393,My invoice shows incorrect tax calculation. Can you fix it? Reference: TKT-14888,billing,urgent,3.3
+TKT-10394,Getting timeout errors during peak hours. I have been waiting for 3 days.,technical,medium,40.0
+TKT-10395,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-47941 Please escalate this issue.,billing,urgent,3.1
+TKT-10396,My payment method expired. How do I update it without service interruption? Reference: TKT-53914,billing,low,91.0
+TKT-10397,How can I view login history of my account? Thank you in advance.,account,medium,42.9
+TKT-10398,Search functionality is not returning correct results. Reference: TKT-24764 Looking forward to your response.,technical,urgent,3.7
+TKT-10399,Need to update company name and address in profile. Looking forward to your response.,account,low,78.1
+TKT-10400,The promotional discount was not applied to my bill. Looking forward to your response.,billing,high,19.1
+TKT-10401,Getting timeout errors during peak hours. I am a premium customer.,technical,low,31.4
+TKT-10402,How can I view login history of my account? Reference: TKT-28430 Please help as soon as possible.,account,low,89.0
+TKT-10403,Can I integrate this tool with Slack and Microsoft Teams? Reference: TKT-40870 This is urgent.,product,medium,30.2
+TKT-10404,Is offline mode supported on the mobile app? Looking forward to your response.,product,high,20.5
+TKT-10405,I cancelled my plan but still got billed. Requesting refund. Reference: TKT-25495 Kindly look into this matter.,billing,medium,23.5
+TKT-10406,Do you offer white-label solution for agencies? Thank you in advance.,product,medium,44.2
+TKT-10407,How can I view login history of my account? Looking forward to your response.,account,high,11.8
+TKT-10408,Dashboard is loading very slowly for the past two days. Reference: TKT-89395 Please escalate this issue.,technical,low,24.8
+TKT-10409,I want to enable two-factor authentication. Please escalate this issue.,account,medium,44.6
+TKT-10410,File upload progress bar stuck at 99%.,technical,high,5.8
+TKT-10411,I want to change from monthly to annual billing. Reference: TKT-83946 This is affecting my business.,billing,medium,23.5
+TKT-10412,I want to change from monthly to annual billing. Reference: TKT-80341 Thank you in advance.,billing,low,92.4
+TKT-10413,Getting timeout errors during peak hours. Thank you in advance.,technical,low,92.4
+TKT-10414,Search functionality is not returning correct results. Please help as soon as possible.,technical,high,15.5
+TKT-10415,What are the data retention policies? I have been waiting for 3 days.,product,high,16.6
+TKT-10416,Can I customize the dashboard widgets? Please escalate this issue.,product,medium,28.1
+TKT-10417,How do I transfer ownership of the account to another person? Looking forward to your response.,account,high,9.9
+TKT-10418,The application keeps crashing whenever I try to upload a large file. I am a premium customer.,technical,medium,23.8
+TKT-10419,I was charged twice for my subscription this month. Please refund the extra amount. Please help as soon as possible.,billing,medium,36.2
+TKT-10420,Do you offer white-label solution for agencies? I have been waiting for 3 days.,product,low,78.2
+TKT-10421,What is the uptime SLA for the paid plans? I am a premium customer.,product,medium,40.5
+TKT-10422,Does the tool support multi-language interface? Reference: TKT-55582 Thank you in advance.,product,medium,40.4
+TKT-10423,I want to change from monthly to annual billing. I am a premium customer.,billing,low,30.6
+TKT-10424,The system is showing old data even after refresh. This is urgent.,technical,high,13.9
+TKT-10425,Can I customize the dashboard widgets? I am a premium customer.,product,high,5.2
+TKT-10426,I cannot export reports in PDF format. Button does nothing. Reference: TKT-24790 I have been waiting for 3 days.,technical,low,63.6
+TKT-10427,There is a discrepancy in the billing amount for enterprise plan.,billing,high,12.8
+TKT-10428,My invoice shows incorrect tax calculation. Can you fix it? Please help as soon as possible.,billing,low,87.9
+TKT-10429,How does the AI feature work and is it included? Reference: TKT-15798 This is urgent.,product,medium,24.6
+TKT-10430,Can I customize the dashboard widgets? Kindly look into this matter.,product,medium,16.2
+TKT-10431,How do I update my credit card details for auto-renewal? Kindly look into this matter.,billing,low,34.3
+TKT-10432,Account recovery options are not working. Reference: TKT-28777 This is affecting my business.,account,medium,39.4
+TKT-10433,Mobile app freezes on the home screen after latest update. This is urgent.,technical,medium,34.3
+TKT-10434,Getting CORS error when calling the public API. Thank you in advance.,technical,high,6.0
+TKT-10435,How can I view login history of my account? I am a premium customer.,account,urgent,1.1
+TKT-10436,How do I transfer ownership of the account to another person? Reference: TKT-34101 I have been waiting for 3 days.,account,high,18.0
+TKT-10437,Can I integrate this tool with Slack and Microsoft Teams? Looking forward to your response.,product,low,29.2
+TKT-10438,Chrome extension is not syncing with the web app. This is urgent.,technical,high,20.4
+TKT-10439,Is there a dark mode available in the application? Reference: TKT-36651 I am a premium customer.,product,medium,37.4
+TKT-10440,I cannot change my username. Is it permanent? Please escalate this issue.,account,high,5.6
+TKT-10441,I was charged for premium features I didn't use. Reference: TKT-59436 Kindly look into this matter.,billing,medium,15.1
+TKT-10442,Payment failed but money was deducted from my account. Please help.,billing,urgent,7.9
+TKT-10443,Getting timeout errors during peak hours. This is affecting my business.,technical,medium,25.5
+TKT-10444,Payment failed but money was deducted from my account. Please help. Please help as soon as possible.,billing,low,50.7
+TKT-10445,How does the AI feature work and is it included?,product,urgent,6.6
+TKT-10446,Can I customize the dashboard widgets? This is affecting my business.,product,urgent,7.6
+TKT-10447,Does the tool support multi-language interface? This is affecting my business.,product,medium,47.5
+TKT-10448,Need to update company name and address in profile. Reference: TKT-71537 Please escalate this issue.,account,medium,39.1
+TKT-10449,My account was locked after multiple failed login attempts. This is affecting my business.,account,urgent,3.3
+TKT-10450,The application keeps crashing whenever I try to upload a large file. Looking forward to your response.,technical,high,5.7
+TKT-10451,Can I integrate this tool with Slack and Microsoft Teams? Reference: TKT-84683 This is affecting my business.,product,medium,40.0
+TKT-10452,File upload progress bar stuck at 99%. Reference: TKT-74044 This is affecting my business.,technical,medium,32.1
+TKT-10453,How does the AI feature work and is it included? Reference: TKT-81636 This is affecting my business.,product,medium,27.3
+TKT-10454,What is the uptime SLA for the paid plans? Thank you in advance.,product,low,89.3
+TKT-10455,I was charged for premium features I didn't use. Please help as soon as possible.,billing,medium,16.0
+TKT-10456,There is a discrepancy in the billing amount for enterprise plan. I have been waiting for 3 days.,billing,high,13.9
+TKT-10457,Dashboard is loading very slowly for the past two days. Reference: TKT-69770 This is urgent.,technical,low,24.8
+TKT-10458,How can I view login history of my account?,account,low,57.7
+TKT-10459,Can I customize the dashboard widgets? Thank you in advance.,product,low,28.1
+TKT-10460,How do I update my credit card details for auto-renewal? Thank you in advance.,billing,medium,16.3
+TKT-10461,Need GST invoice for my company purchase. I am a premium customer.,billing,medium,16.2
+TKT-10462,I am unable to login. Getting error 500 internal server error. Reference: TKT-35156 Thank you in advance.,technical,low,70.7
+TKT-10463,I am unable to verify my phone number for 2FA. Reference: TKT-63218 I am a premium customer.,account,high,18.9
+TKT-10464,How does the AI feature work and is it included? Reference: TKT-20566 Kindly look into this matter.,product,medium,33.0
+TKT-10465,There is a discrepancy in the billing amount for enterprise plan. I am a premium customer.,billing,low,93.3
+TKT-10466,Need GST invoice for my company purchase. Reference: TKT-66873 I have been waiting for 3 days.,billing,high,11.5
+TKT-10467,Please remove the old admin who left the company. Please help as soon as possible.,account,medium,22.3
+TKT-10468,Please pause my subscription and stop billing temporarily.,billing,low,86.5
+TKT-10469,Received a bill for a service I never signed up for. Looking forward to your response.,billing,urgent,2.2
+TKT-10470,I was charged for premium features I didn't use. Reference: TKT-37152 This is affecting my business.,billing,low,93.4
+TKT-10471,Real-time notifications are delayed by several minutes. I am a premium customer.,technical,high,4.2
+TKT-10472,Please delete my account permanently as per GDPR.,account,low,93.8
+TKT-10473,Can I customize the dashboard widgets? This is affecting my business.,product,high,4.9
+TKT-10474,Real-time notifications are delayed by several minutes. Please help as soon as possible.,technical,high,21.8
+TKT-10475,How do I transfer ownership of the account to another person? Kindly look into this matter.,account,low,62.0
+TKT-10476,Someone else has access to my account. Please secure it.,account,high,23.9
+TKT-10477,I am unable to verify my phone number for 2FA. Please escalate this issue.,account,low,29.3
+TKT-10478,How do I transfer ownership of the account to another person? Reference: TKT-86791 I am a premium customer.,account,medium,31.9
+TKT-10479,Is there a public roadmap for upcoming features? Looking forward to your response.,product,low,93.8
+TKT-10480,I need a copy of last month's invoice for accounting purposes. I am a premium customer.,billing,low,61.7
+TKT-10481,I cannot export reports in PDF format. Button does nothing. Reference: TKT-10680 This is affecting my business.,technical,high,16.6
+TKT-10482,Account recovery options are not working. Reference: TKT-21442 Looking forward to your response.,account,medium,37.0
+TKT-10483,Webhooks are not being triggered for new events. Thank you in advance.,technical,medium,28.4
+TKT-10484,I cancelled my plan but still got billed. Requesting refund. Reference: TKT-88386 Thank you in advance.,billing,low,69.2
+TKT-10485,I forgot my password and the reset email is not arriving. Looking forward to your response.,account,urgent,4.9
+TKT-10486,I want to change from monthly to annual billing. Kindly look into this matter.,billing,high,22.0
+TKT-10487,Dashboard is loading very slowly for the past two days. Reference: TKT-45180 I have been waiting for 3 days.,technical,high,4.9
+TKT-10488,Is there a dark mode available in the application? Reference: TKT-49289 I am a premium customer.,product,low,44.2
+TKT-10489,Is offline mode supported on the mobile app? Looking forward to your response.,product,high,23.0
+TKT-10490,Can I integrate this tool with Slack and Microsoft Teams? Reference: TKT-49932 Please escalate this issue.,product,medium,44.0
+TKT-10491,I cancelled my plan but still got billed. Requesting refund.,billing,urgent,3.9
+TKT-10492,How do I transfer ownership of the account to another person? Reference: TKT-52030,account,medium,34.3
+TKT-10493,Dashboard is loading very slowly for the past two days. I am a premium customer.,technical,medium,22.0
+TKT-10494,How can I view login history of my account? Please escalate this issue.,account,high,7.8
+TKT-10495,Mobile app freezes on the home screen after latest update. I am a premium customer.,technical,medium,28.7
+TKT-10496,Webhooks are not being triggered for new events. I have been waiting for 3 days.,technical,medium,24.7
+TKT-10497,Can you explain the extra charges on my recent invoice? Kindly look into this matter.,billing,urgent,4.9
+TKT-10498,How can I change the email address linked to my account? I am a premium customer.,account,high,5.6
+TKT-10499,API integration is failing with authentication error. Looking forward to your response.,technical,high,23.5
+TKT-10500,What is the difference between Pro and Enterprise plans? Please escalate this issue.,product,high,23.7
+TKT-10501,Can I customize the dashboard widgets? Thank you in advance.,product,medium,37.1
+TKT-10502,Can I export all my data in bulk? This is affecting my business.,product,medium,31.3
+TKT-10503,Payment failed but money was deducted from my account. Please help. Reference: TKT-90304 This is affecting my business.,billing,low,46.3
+TKT-10504,Received a bill for a service I never signed up for. I am a premium customer.,billing,medium,41.3
+TKT-10505,How do I transfer ownership of the account to another person? Reference: TKT-43913 Please help as soon as possible.,account,urgent,5.6
+TKT-10506,Webhooks are not being triggered for new events. Thank you in advance.,technical,medium,17.9
+TKT-10507,Getting CORS error when calling the public API. Please escalate this issue.,technical,medium,44.8
+TKT-10508,The application keeps crashing whenever I try to upload a large file. Reference: TKT-64522 Please escalate this issue.,technical,medium,41.6
+TKT-10509,Need GST invoice for my company purchase. I have been waiting for 3 days.,billing,low,92.4
+TKT-10510,Please delete my account permanently as per GDPR. Thank you in advance.,account,medium,38.1
+TKT-10511,How does the AI feature work and is it included? Please escalate this issue.,product,low,68.2
+TKT-10512,I need to merge two accounts into one. Reference: TKT-54967 Please help as soon as possible.,account,low,54.1
+TKT-10513,I need a copy of last month's invoice for accounting purposes. Kindly look into this matter.,billing,high,22.7
+TKT-10514,Getting CORS error when calling the public API. Reference: TKT-63090 Please escalate this issue.,technical,medium,43.2
+TKT-10515,File upload progress bar stuck at 99%. I am a premium customer.,technical,low,27.3
+TKT-10516,Getting CORS error when calling the public API. Reference: TKT-38153 I am a premium customer.,technical,medium,12.9
+TKT-10517,Real-time notifications are delayed by several minutes. Please help as soon as possible.,technical,medium,25.6
+TKT-10518,API integration is failing with authentication error. Reference: TKT-97910 Please escalate this issue.,technical,medium,41.2
+TKT-10519,Does the tool support multi-language interface? This is affecting my business.,product,medium,47.5
+TKT-10520,Is offline mode supported on the mobile app? This is affecting my business.,product,medium,17.4
+TKT-10521,Real-time notifications are delayed by several minutes. Looking forward to your response.,technical,high,15.9
+TKT-10522,I cancelled my plan but still got billed. Requesting refund. Reference: TKT-25328 Please help as soon as possible.,billing,high,11.6
+TKT-10523,Dashboard is loading very slowly for the past two days. Thank you in advance.,technical,medium,46.9
+TKT-10524,Getting CORS error when calling the public API. I have been waiting for 3 days.,technical,medium,42.3
+TKT-10525,Search functionality is not returning correct results. Reference: TKT-51232 Looking forward to your response.,technical,medium,42.2
+TKT-10526,Is there a desktop application available? This is affecting my business.,product,high,13.4
+TKT-10527,Is there a desktop application available? I am a premium customer.,product,low,53.9
+TKT-10528,What are the data retention policies? I am a premium customer.,product,medium,21.8
+TKT-10529,What is the difference between Pro and Enterprise plans? Reference: TKT-38905,product,medium,14.0
+TKT-10530,Please delete my account permanently as per GDPR. Reference: TKT-69942 Thank you in advance.,account,low,86.3
+TKT-10531,What is the difference between Pro and Enterprise plans? Reference: TKT-81186,product,medium,41.3
+TKT-10532,Account recovery options are not working. This is urgent.,account,medium,48.0
+TKT-10533,Do you offer white-label solution for agencies? Please help as soon as possible.,product,medium,47.9
+TKT-10534,The application keeps crashing whenever I try to upload a large file. Reference: TKT-21401 Please escalate this issue.,technical,medium,32.0
+TKT-10535,What is the difference between Pro and Enterprise plans? Reference: TKT-87060 Kindly look into this matter.,product,urgent,6.3
+TKT-10536,Someone else has access to my account. Please secure it. Reference: TKT-28249 I am a premium customer.,account,urgent,7.6
+TKT-10537,The system is showing old data even after refresh. This is urgent.,technical,high,21.0
+TKT-10538,I need to add a new team member with admin privileges. This is affecting my business.,account,medium,20.9
+TKT-10539,I am unable to verify my phone number for 2FA. Thank you in advance.,account,medium,28.2
+TKT-10540,The promotional discount was not applied to my bill. I am a premium customer.,billing,low,33.3
+TKT-10541,I need to add a new team member with admin privileges. Reference: TKT-52217 I have been waiting for 3 days.,account,urgent,7.7
+TKT-10542,File upload progress bar stuck at 99%. I am a premium customer.,technical,high,16.1
+TKT-10543,How do I transfer ownership of the account to another person? Reference: TKT-22202 Please escalate this issue.,account,high,8.6
+TKT-10544,How many users can I add on the current plan? This is affecting my business.,product,medium,36.2
+TKT-10545,Does the free plan include access to the API? Please help as soon as possible.,product,medium,34.3
+TKT-10546,How does the AI feature work and is it included? This is affecting my business.,product,high,11.2
+TKT-10547,Do you offer white-label solution for agencies? Kindly look into this matter.,product,low,32.2
+TKT-10548,My account was locked after multiple failed login attempts. Thank you in advance.,account,high,17.4
+TKT-10549,What is the uptime SLA for the paid plans? Reference: TKT-92074 This is urgent.,product,high,14.4
+TKT-10550,What is the uptime SLA for the paid plans? I have been waiting for 3 days.,product,low,79.6
+TKT-10551,There is a discrepancy in the billing amount for enterprise plan. Kindly look into this matter.,billing,urgent,4.4
+TKT-10552,Mobile app freezes on the home screen after latest update. I have been waiting for 3 days.,technical,urgent,6.9
+TKT-10553,My account was locked after multiple failed login attempts. Reference: TKT-97098 Looking forward to your response.,account,low,63.7
+TKT-10554,File upload progress bar stuck at 99%. Looking forward to your response.,technical,low,64.4
+TKT-10555,I am unable to login. Getting error 500 internal server error. Reference: TKT-72496 Please help as soon as possible.,technical,medium,43.6
+TKT-10556,Payment failed but money was deducted from my account. Please help. Thank you in advance.,billing,low,53.1
+TKT-10557,I cancelled my plan but still got billed. Requesting refund. Please help as soon as possible.,billing,low,33.6
+TKT-10558,What are the data retention policies? Reference: TKT-21708 Please help as soon as possible.,product,high,4.6
+TKT-10559,I cancelled my plan but still got billed. Requesting refund. Reference: TKT-27451 Looking forward to your response.,billing,low,78.4
+TKT-10560,SSO login with Google is broken since yesterday. This is urgent.,technical,low,68.7
+TKT-10561,Real-time notifications are delayed by several minutes. Kindly look into this matter.,technical,medium,37.3
+TKT-10562,SSO login with Google is broken since yesterday. Please escalate this issue.,technical,urgent,2.1
+TKT-10563,I need a copy of last month's invoice for accounting purposes. Please help as soon as possible.,billing,urgent,1.5
+TKT-10564,Do you offer white-label solution for agencies? This is affecting my business.,product,medium,12.5
+TKT-10565,I am unable to login. Getting error 500 internal server error. Kindly look into this matter.,technical,medium,24.6
+TKT-10566,I need to merge two accounts into one. This is urgent.,account,high,15.8
+TKT-10567,Someone else has access to my account. Please secure it. Reference: TKT-61347 Thank you in advance.,account,low,52.2
+TKT-10568,Account recovery options are not working. Kindly look into this matter.,account,high,12.7
+TKT-10569,Received a bill for a service I never signed up for. Reference: TKT-11581,billing,low,89.1
+TKT-10570,I need to add a new team member with admin privileges. I am a premium customer.,account,urgent,3.1
+TKT-10571,Does the tool support multi-language interface? I have been waiting for 3 days.,product,medium,30.5
+TKT-10572,My invoice shows incorrect tax calculation. Can you fix it? Reference: TKT-15220 This is urgent.,billing,low,80.4
+TKT-10573,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-75673 Thank you in advance.,billing,urgent,3.5
+TKT-10574,Do you offer white-label solution for agencies? Please help as soon as possible.,product,medium,34.4
+TKT-10575,Mobile app freezes on the home screen after latest update. Please help as soon as possible.,technical,medium,43.0
+TKT-10576,Dashboard is loading very slowly for the past two days. Thank you in advance.,technical,urgent,7.6
+TKT-10577,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-21300 Kindly look into this matter.,billing,medium,17.3
+TKT-10578,Is there a public roadmap for upcoming features? Reference: TKT-97304,product,low,90.7
+TKT-10579,Real-time notifications are delayed by several minutes. I have been waiting for 3 days.,technical,low,59.4
+TKT-10580,I cannot export reports in PDF format. Button does nothing. Thank you in advance.,technical,medium,21.3
+TKT-10581,I need to add a new team member with admin privileges. Looking forward to your response.,account,low,57.1
+TKT-10582,I was charged twice for my subscription this month. Please refund the extra amount. This is affecting my business.,billing,high,23.6
+TKT-10583,I am unable to verify my phone number for 2FA.,account,medium,29.7
+TKT-10584,Is offline mode supported on the mobile app? This is urgent.,product,medium,23.8
+TKT-10585,Mobile app freezes on the home screen after latest update. Please help as soon as possible.,technical,medium,34.8
+TKT-10586,I want to change from monthly to annual billing. Reference: TKT-11610 This is urgent.,billing,low,41.3
+TKT-10587,I cannot export reports in PDF format. Button does nothing. I am a premium customer.,technical,low,29.5
+TKT-10588,Getting timeout errors during peak hours. This is urgent.,technical,urgent,1.5
+TKT-10589,Can I integrate this tool with Slack and Microsoft Teams? I am a premium customer.,product,low,33.2
+TKT-10590,How can I change the email address linked to my account?,account,medium,17.5
+TKT-10591,The promotional discount was not applied to my bill. Thank you in advance.,billing,low,34.0
+TKT-10592,What are the data retention policies? Looking forward to your response.,product,low,70.1
+TKT-10593,I want to enable two-factor authentication. Reference: TKT-36302 Please escalate this issue.,account,medium,18.5
+TKT-10594,I am unable to verify my phone number for 2FA. Reference: TKT-58270,account,medium,24.4
+TKT-10595,Can I export all my data in bulk? Kindly look into this matter.,product,urgent,7.2
+TKT-10596,Chrome extension is not syncing with the web app. Reference: TKT-80981 I am a premium customer.,technical,low,58.1
+TKT-10597,I need to merge two accounts into one. This is urgent.,account,high,17.4
+TKT-10598,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-79443 Looking forward to your response.,billing,high,7.4
+TKT-10599,The application keeps crashing whenever I try to upload a large file. I have been waiting for 3 days.,technical,medium,18.9
+TKT-10600,Payment failed but money was deducted from my account. Please help. Thank you in advance.,billing,low,26.9
+TKT-10601,I need to merge two accounts into one. Please help as soon as possible.,account,medium,18.1
+TKT-10602,Getting CORS error when calling the public API. Please help as soon as possible.,technical,high,9.6
+TKT-10603,I need a copy of last month's invoice for accounting purposes. Reference: TKT-51288 Kindly look into this matter.,billing,medium,18.4
+TKT-10604,How does the AI feature work and is it included? This is affecting my business.,product,high,5.8
+TKT-10605,Please delete my account permanently as per GDPR. I have been waiting for 3 days.,account,low,32.7
+TKT-10606,I need a copy of last month's invoice for accounting purposes. Please escalate this issue.,billing,low,57.2
+TKT-10607,Is offline mode supported on the mobile app? Kindly look into this matter.,product,low,38.9
+TKT-10608,What is the difference between Pro and Enterprise plans? Reference: TKT-99922 Please help as soon as possible.,product,medium,25.1
+TKT-10609,I need to merge two accounts into one. Reference: TKT-52964,account,high,14.1
+TKT-10610,API integration is failing with authentication error. This is affecting my business.,technical,low,73.7
+TKT-10611,How do I update my credit card details for auto-renewal? Reference: TKT-63004 I have been waiting for 3 days.,billing,high,4.8
+TKT-10612,Can I customize the dashboard widgets? Reference: TKT-23357 Kindly look into this matter.,product,medium,40.8
+TKT-10613,The application keeps crashing whenever I try to upload a large file. Reference: TKT-62505 Kindly look into this matter.,technical,low,69.2
+TKT-10614,How can I view login history of my account? Please help as soon as possible.,account,high,5.6
+TKT-10615,How can I change the email address linked to my account? This is urgent.,account,urgent,7.1
+TKT-10616,Search functionality is not returning correct results. Reference: TKT-53456 I have been waiting for 3 days.,technical,urgent,7.4
+TKT-10617,Can you explain the extra charges on my recent invoice? Reference: TKT-85220 This is urgent.,billing,low,28.4
+TKT-10618,Do you offer white-label solution for agencies? Reference: TKT-99550 Please escalate this issue.,product,high,9.5
+TKT-10619,Can I integrate this tool with Slack and Microsoft Teams? Reference: TKT-68459 I have been waiting for 3 days.,product,low,82.0
+TKT-10620,SSO login with Google is broken since yesterday. Reference: TKT-48680,technical,low,77.9
+TKT-10621,Can I customize the dashboard widgets? Reference: TKT-46670 Please escalate this issue.,product,medium,18.6
+TKT-10622,Can I integrate this tool with Slack and Microsoft Teams? Reference: TKT-81258 Thank you in advance.,product,low,39.1
+TKT-10623,The promotional discount was not applied to my bill. This is affecting my business.,billing,urgent,3.3
+TKT-10624,Is there a public roadmap for upcoming features? Thank you in advance.,product,medium,29.4
+TKT-10625,My account was locked after multiple failed login attempts. Reference: TKT-46822,account,low,68.5
+TKT-10626,Can you explain the extra charges on my recent invoice? Thank you in advance.,billing,high,11.4
+TKT-10627,I am unable to login. Getting error 500 internal server error. Kindly look into this matter.,technical,urgent,4.0
+TKT-10628,Account recovery options are not working. This is urgent.,account,medium,38.9
+TKT-10629,The system is showing old data even after refresh. I am a premium customer.,technical,medium,13.3
+TKT-10630,SSO login with Google is broken since yesterday. This is affecting my business.,technical,low,42.2
+TKT-10631,I forgot my password and the reset email is not arriving. This is affecting my business.,account,urgent,5.9
+TKT-10632,API integration is failing with authentication error. Please escalate this issue.,technical,medium,44.2
+TKT-10633,I am unable to login. Getting error 500 internal server error. Reference: TKT-38679 This is urgent.,technical,medium,30.4
+TKT-10634,I was charged twice for my subscription this month. Please refund the extra amount. This is affecting my business.,billing,medium,31.2
+TKT-10635,I cannot export reports in PDF format. Button does nothing. I have been waiting for 3 days.,technical,high,6.1
+TKT-10636,I need to add a new team member with admin privileges.,account,low,56.2
+TKT-10637,Getting timeout errors during peak hours. Thank you in advance.,technical,high,14.7
+TKT-10638,Received a bill for a service I never signed up for. I am a premium customer.,billing,medium,20.7
+TKT-10639,I need to add a new team member with admin privileges. I have been waiting for 3 days.,account,medium,21.7
+TKT-10640,What are the data retention policies? Reference: TKT-83659 This is affecting my business.,product,high,11.5
+TKT-10641,Someone else has access to my account. Please secure it. I have been waiting for 3 days.,account,low,25.4
+TKT-10642,I need to merge two accounts into one. This is urgent.,account,low,47.2
+TKT-10643,Can I export all my data in bulk? Reference: TKT-88956,product,urgent,2.1
+TKT-10644,Someone else has access to my account. Please secure it. Kindly look into this matter.,account,urgent,3.0
+TKT-10645,I need a copy of last month's invoice for accounting purposes. This is affecting my business.,billing,urgent,1.4
+TKT-10646,I cannot export reports in PDF format. Button does nothing. I have been waiting for 3 days.,technical,medium,44.1
+TKT-10647,Received a bill for a service I never signed up for. This is affecting my business.,billing,high,15.9
+TKT-10648,I need to merge two accounts into one. Please help as soon as possible.,account,low,72.9
+TKT-10649,I was charged twice for my subscription this month. Please refund the extra amount. I am a premium customer.,billing,high,19.8
+TKT-10650,What is the uptime SLA for the paid plans? I am a premium customer.,product,urgent,4.2
+TKT-10651,Do you offer white-label solution for agencies? Please help as soon as possible.,product,medium,15.1
+TKT-10652,I am unable to login. Getting error 500 internal server error. Reference: TKT-51774 This is urgent.,technical,low,62.7
+TKT-10653,How can I change the email address linked to my account? Reference: TKT-59212 This is affecting my business.,account,urgent,4.9
+TKT-10654,Webhooks are not being triggered for new events. Please help as soon as possible.,technical,high,18.9
+TKT-10655,Do you offer white-label solution for agencies? I have been waiting for 3 days.,product,high,12.6
+TKT-10656,What is the difference between Pro and Enterprise plans? Reference: TKT-34901 This is affecting my business.,product,low,33.2
+TKT-10657,How does the AI feature work and is it included? Reference: TKT-46899 Thank you in advance.,product,high,9.7
+TKT-10658,I forgot my password and the reset email is not arriving. I am a premium customer.,account,low,50.1
+TKT-10659,Is offline mode supported on the mobile app? This is urgent.,product,low,70.5
+TKT-10660,How can I view login history of my account?,account,high,15.4
+TKT-10661,I need a copy of last month's invoice for accounting purposes. Looking forward to your response.,billing,low,49.6
+TKT-10662,How many users can I add on the current plan? I am a premium customer.,product,high,23.7
+TKT-10663,I want to enable two-factor authentication. Reference: TKT-59996 I am a premium customer.,account,low,67.6
+TKT-10664,I forgot my password and the reset email is not arriving. Looking forward to your response.,account,low,41.1
+TKT-10665,I am unable to verify my phone number for 2FA. Reference: TKT-97486,account,low,31.3
+TKT-10666,I cancelled my plan but still got billed. Requesting refund. Thank you in advance.,billing,low,35.0
+TKT-10667,Getting timeout errors during peak hours. I am a premium customer.,technical,medium,20.9
+TKT-10668,Does the tool support multi-language interface? Please escalate this issue.,product,urgent,1.7
+TKT-10669,I am unable to login. Getting error 500 internal server error. I am a premium customer.,technical,medium,18.7
+TKT-10670,Please pause my subscription and stop billing temporarily. Thank you in advance.,billing,medium,22.3
+TKT-10671,The system is showing old data even after refresh. Reference: TKT-31910 Please escalate this issue.,technical,low,36.5
+TKT-10672,Dashboard is loading very slowly for the past two days. This is urgent.,technical,high,21.9
+TKT-10673,Is there a desktop application available? I have been waiting for 3 days.,product,low,29.8
+TKT-10674,I need to merge two accounts into one. Reference: TKT-82923 Please help as soon as possible.,account,medium,30.9
+TKT-10675,Is there a desktop application available? Looking forward to your response.,product,medium,26.8
+TKT-10676,My payment method expired. How do I update it without service interruption?,billing,high,23.6
+TKT-10677,Is there a dark mode available in the application? I have been waiting for 3 days.,product,low,32.1
+TKT-10678,My payment method expired. How do I update it without service interruption? Please help as soon as possible.,billing,urgent,3.5
+TKT-10679,I am unable to verify my phone number for 2FA. I am a premium customer.,account,urgent,7.8
+TKT-10680,How many users can I add on the current plan? Reference: TKT-89777 I am a premium customer.,product,low,86.3
+TKT-10681,What is the uptime SLA for the paid plans? This is affecting my business.,product,low,82.8
+TKT-10682,Please pause my subscription and stop billing temporarily. Looking forward to your response.,billing,high,9.2
+TKT-10683,The promotional discount was not applied to my bill. Looking forward to your response.,billing,medium,18.2
+TKT-10684,Does the tool support multi-language interface? Please help as soon as possible.,product,urgent,5.5
+TKT-10685,Real-time notifications are delayed by several minutes. Please escalate this issue.,technical,low,90.9
+TKT-10686,How do I transfer ownership of the account to another person?,account,medium,32.0
+TKT-10687,Chrome extension is not syncing with the web app. I am a premium customer.,technical,medium,32.6
+TKT-10688,I want to enable two-factor authentication. Reference: TKT-76426 I have been waiting for 3 days.,account,high,9.6
+TKT-10689,Is there a desktop application available? Thank you in advance.,product,low,79.4
+TKT-10690,Please pause my subscription and stop billing temporarily. Kindly look into this matter.,billing,low,37.5
+TKT-10691,The application keeps crashing whenever I try to upload a large file. This is affecting my business.,technical,low,47.3
+TKT-10692,Need to update company name and address in profile. Thank you in advance.,account,medium,27.3
+TKT-10693,Payment failed but money was deducted from my account. Please help. This is affecting my business.,billing,high,14.2
+TKT-10694,Is there a desktop application available? Please escalate this issue.,product,low,41.5
+TKT-10695,Please remove the old admin who left the company. Looking forward to your response.,account,medium,16.1
+TKT-10696,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-85007 This is urgent.,billing,medium,34.0
+TKT-10697,File upload progress bar stuck at 99%. Kindly look into this matter.,technical,urgent,2.7
+TKT-10698,I want to enable two-factor authentication. This is urgent.,account,high,15.6
+TKT-10699,I need a copy of last month's invoice for accounting purposes. I have been waiting for 3 days.,billing,medium,17.6
+TKT-10700,My payment method expired. How do I update it without service interruption? Looking forward to your response.,billing,low,58.6
+TKT-10701,How do I transfer ownership of the account to another person? This is affecting my business.,account,medium,31.2
+TKT-10702,File upload progress bar stuck at 99%. Thank you in advance.,technical,medium,13.9
+TKT-10703,Does the free plan include access to the API? Thank you in advance.,product,medium,24.1
+TKT-10704,Someone else has access to my account. Please secure it. Reference: TKT-99707,account,medium,16.8
+TKT-10705,I cancelled my plan but still got billed. Requesting refund. Looking forward to your response.,billing,medium,14.3
+TKT-10706,I need to merge two accounts into one. Reference: TKT-77802 Looking forward to your response.,account,medium,47.6
+TKT-10707,The system is showing old data even after refresh.,technical,urgent,2.9
+TKT-10708,I need to merge two accounts into one. This is urgent.,account,high,20.2
+TKT-10709,How do I transfer ownership of the account to another person? I am a premium customer.,account,medium,21.2
+TKT-10710,My payment method expired. How do I update it without service interruption? Kindly look into this matter.,billing,medium,36.5
+TKT-10711,File upload progress bar stuck at 99%. Please escalate this issue.,technical,high,19.2
+TKT-10712,Please remove the old admin who left the company. I have been waiting for 3 days.,account,medium,33.4
+TKT-10713,Search functionality is not returning correct results. I have been waiting for 3 days.,technical,medium,29.0
+TKT-10714,Chrome extension is not syncing with the web app. This is affecting my business.,technical,urgent,3.6
+TKT-10715,Real-time notifications are delayed by several minutes. Looking forward to your response.,technical,medium,24.6
+TKT-10716,Someone else has access to my account. Please secure it. Looking forward to your response.,account,medium,45.5
+TKT-10717,I was charged for premium features I didn't use.,billing,medium,41.9
+TKT-10718,Payment failed but money was deducted from my account. Please help. Reference: TKT-99220 Thank you in advance.,billing,medium,46.7
+TKT-10719,Do you offer white-label solution for agencies? This is urgent.,product,medium,16.5
+TKT-10720,API integration is failing with authentication error. This is affecting my business.,technical,low,76.6
+TKT-10721,Is there a desktop application available? I have been waiting for 3 days.,product,low,91.6
+TKT-10722,Is there a dark mode available in the application? This is affecting my business.,product,medium,18.5
+TKT-10723,Payment failed but money was deducted from my account. Please help. I have been waiting for 3 days.,billing,medium,14.4
+TKT-10724,The system is showing old data even after refresh. Reference: TKT-66847 Please help as soon as possible.,technical,medium,38.7
+TKT-10725,What are the data retention policies? Reference: TKT-79963 I am a premium customer.,product,medium,32.7
+TKT-10726,The application keeps crashing whenever I try to upload a large file. This is affecting my business.,technical,high,20.8
+TKT-10727,The application keeps crashing whenever I try to upload a large file. Reference: TKT-55134 Kindly look into this matter.,technical,low,34.1
+TKT-10728,How do I transfer ownership of the account to another person? Thank you in advance.,account,low,81.3
+TKT-10729,The application keeps crashing whenever I try to upload a large file. Looking forward to your response.,technical,low,38.5
+TKT-10730,Is there a public roadmap for upcoming features? Thank you in advance.,product,high,7.3
+TKT-10731,Chrome extension is not syncing with the web app. Please escalate this issue.,technical,medium,17.9
+TKT-10732,Chrome extension is not syncing with the web app. Reference: TKT-39402 I am a premium customer.,technical,low,82.6
+TKT-10733,The application keeps crashing whenever I try to upload a large file.,technical,low,71.9
+TKT-10734,Received a bill for a service I never signed up for. This is urgent.,billing,medium,30.8
+TKT-10735,Someone else has access to my account. Please secure it. This is urgent.,account,high,11.2
+TKT-10736,Received a bill for a service I never signed up for. Reference: TKT-25176 This is urgent.,billing,high,21.5
+TKT-10737,What is the difference between Pro and Enterprise plans? Reference: TKT-30070 Thank you in advance.,product,medium,26.1
+TKT-10738,File upload progress bar stuck at 99%. This is urgent.,technical,high,20.3
+TKT-10739,How do I update my credit card details for auto-renewal?,billing,high,12.8
+TKT-10740,Chrome extension is not syncing with the web app. Please help as soon as possible.,technical,medium,25.6
+TKT-10741,The promotional discount was not applied to my bill. Please help as soon as possible.,billing,medium,28.7
+TKT-10742,Getting timeout errors during peak hours. Thank you in advance.,technical,high,10.0
+TKT-10743,I am unable to verify my phone number for 2FA. Reference: TKT-75058 I have been waiting for 3 days.,account,high,19.0
+TKT-10744,Search functionality is not returning correct results. Reference: TKT-11671 This is affecting my business.,technical,high,14.1
+TKT-10745,I was charged for premium features I didn't use.,billing,urgent,2.2
+TKT-10746,The system is showing old data even after refresh. Reference: TKT-23276 Thank you in advance.,technical,urgent,7.2
+TKT-10747,Need to update company name and address in profile. Reference: TKT-16564 Looking forward to your response.,account,high,11.7
+TKT-10748,I was charged for premium features I didn't use. This is urgent.,billing,high,14.9
+TKT-10749,My account was locked after multiple failed login attempts. I am a premium customer.,account,high,22.1
+TKT-10750,Please pause my subscription and stop billing temporarily. Reference: TKT-28139 This is urgent.,billing,urgent,5.2
+TKT-10751,Chrome extension is not syncing with the web app. Please escalate this issue.,technical,medium,16.2
+TKT-10752,How can I change the email address linked to my account? This is affecting my business.,account,urgent,7.5
+TKT-10753,Getting CORS error when calling the public API. Reference: TKT-60556 Please escalate this issue.,technical,low,69.2
+TKT-10754,Does the tool support multi-language interface? Reference: TKT-17686 I have been waiting for 3 days.,product,high,10.7
+TKT-10755,Chrome extension is not syncing with the web app.,technical,low,34.0
+TKT-10756,Do you offer white-label solution for agencies? This is affecting my business.,product,low,81.2
+TKT-10757,Search functionality is not returning correct results. Please help as soon as possible.,technical,medium,34.3
+TKT-10758,How many users can I add on the current plan? Reference: TKT-98857 This is affecting my business.,product,low,62.4
+TKT-10759,File upload progress bar stuck at 99%. This is affecting my business.,technical,urgent,7.2
+TKT-10760,Need GST invoice for my company purchase. Kindly look into this matter.,billing,medium,40.4
+TKT-10761,Is there a desktop application available? Thank you in advance.,product,low,34.9
+TKT-10762,Please pause my subscription and stop billing temporarily. I have been waiting for 3 days.,billing,low,46.4
+TKT-10763,Is there a desktop application available? Reference: TKT-74441 I have been waiting for 3 days.,product,urgent,2.4
+TKT-10764,I am unable to verify my phone number for 2FA. This is urgent.,account,low,77.6
+TKT-10765,Can I integrate this tool with Slack and Microsoft Teams? Please help as soon as possible.,product,medium,13.2
+TKT-10766,What are the data retention policies? Please escalate this issue.,product,low,65.0
+TKT-10767,Does the free plan include access to the API? Please help as soon as possible.,product,high,19.2
+TKT-10768,I was charged twice for my subscription this month. Please refund the extra amount. Please help as soon as possible.,billing,medium,43.6
+TKT-10769,I want to enable two-factor authentication. Kindly look into this matter.,account,urgent,3.1
+TKT-10770,Is offline mode supported on the mobile app? This is urgent.,product,urgent,6.7
+TKT-10771,Can I export all my data in bulk?,product,medium,16.0
+TKT-10772,How can I change the email address linked to my account? Please help as soon as possible.,account,high,20.9
+TKT-10773,I cannot export reports in PDF format. Button does nothing. Looking forward to your response.,technical,low,33.2
+TKT-10774,I forgot my password and the reset email is not arriving. I have been waiting for 3 days.,account,high,11.9
+TKT-10775,Is there a public roadmap for upcoming features? Reference: TKT-61497 Kindly look into this matter.,product,low,81.4
+TKT-10776,The system is showing old data even after refresh. Kindly look into this matter.,technical,medium,17.4
+TKT-10777,I was charged twice for my subscription this month. Please refund the extra amount. Reference: TKT-69048,billing,high,8.6
+TKT-10778,Can I customize the dashboard widgets? I have been waiting for 3 days.,product,high,18.4
+TKT-10779,I was charged twice for my subscription this month. Please refund the extra amount. Thank you in advance.,billing,medium,37.9
+TKT-10780,Can I export all my data in bulk? I have been waiting for 3 days.,product,urgent,5.3
+TKT-10781,Dashboard is loading very slowly for the past two days. Please help as soon as possible.,technical,high,17.9
+TKT-10782,How do I transfer ownership of the account to another person? I am a premium customer.,account,medium,31.5
+TKT-10783,I cannot export reports in PDF format. Button does nothing. Looking forward to your response.,technical,medium,21.1
+TKT-10784,SSO login with Google is broken since yesterday. Reference: TKT-81802 Thank you in advance.,technical,low,48.9
+TKT-10785,I cannot change my username. Is it permanent? Thank you in advance.,account,high,7.6
+TKT-10786,Real-time notifications are delayed by several minutes. Looking forward to your response.,technical,low,89.4
+TKT-10787,File upload progress bar stuck at 99%. I have been waiting for 3 days.,technical,urgent,4.9
+TKT-10788,Account recovery options are not working. This is affecting my business.,account,high,12.0
+TKT-10789,What is the uptime SLA for the paid plans? Reference: TKT-65363 Thank you in advance.,product,high,13.2
+TKT-10790,I was charged twice for my subscription this month. Please refund the extra amount. Reference: TKT-97851 I am a premium customer.,billing,medium,46.1
+TKT-10791,The promotional discount was not applied to my bill. I have been waiting for 3 days.,billing,low,35.0
+TKT-10792,I forgot my password and the reset email is not arriving. Reference: TKT-80932 Looking forward to your response.,account,low,66.2
+TKT-10793,Can you explain the extra charges on my recent invoice? Please help as soon as possible.,billing,medium,30.2
+TKT-10794,Webhooks are not being triggered for new events. Reference: TKT-47701 I am a premium customer.,technical,high,16.2
+TKT-10795,There is a discrepancy in the billing amount for enterprise plan. I am a premium customer.,billing,urgent,0.6
+TKT-10796,I forgot my password and the reset email is not arriving. This is urgent.,account,urgent,7.0
+TKT-10797,The system is showing old data even after refresh. Please escalate this issue.,technical,high,22.6
+TKT-10798,I want to enable two-factor authentication. Reference: TKT-35362,account,high,15.3
+TKT-10799,How can I view login history of my account? Reference: TKT-32779 Please help as soon as possible.,account,medium,37.1
+TKT-10800,There is a discrepancy in the billing amount for enterprise plan. Looking forward to your response.,billing,medium,45.2
+TKT-10801,Getting timeout errors during peak hours. Reference: TKT-71122 Looking forward to your response.,technical,low,74.9
+TKT-10802,Chrome extension is not syncing with the web app. This is affecting my business.,technical,low,35.0
+TKT-10803,Someone else has access to my account. Please secure it. Thank you in advance.,account,medium,32.7
+TKT-10804,I need to add a new team member with admin privileges. Reference: TKT-76209 Thank you in advance.,account,medium,33.8
+TKT-10805,Webhooks are not being triggered for new events. Reference: TKT-38992 I am a premium customer.,technical,medium,27.3
+TKT-10806,I cannot export reports in PDF format. Button does nothing. Reference: TKT-91039 This is affecting my business.,technical,high,18.7
+TKT-10807,Is there a desktop application available? Reference: TKT-55351 This is urgent.,product,urgent,7.5
+TKT-10808,Does the tool support multi-language interface?,product,low,90.6
+TKT-10809,File upload progress bar stuck at 99%. This is affecting my business.,technical,urgent,3.9
+TKT-10810,I want to change from monthly to annual billing. Reference: TKT-77746 Looking forward to your response.,billing,medium,16.1
+TKT-10811,I want to enable two-factor authentication. Please escalate this issue.,account,medium,47.5
+TKT-10812,Please delete my account permanently as per GDPR. This is affecting my business.,account,urgent,6.8
+TKT-10813,The promotional discount was not applied to my bill. Thank you in advance.,billing,low,33.0
+TKT-10814,Received a bill for a service I never signed up for. Kindly look into this matter.,billing,low,90.3
+TKT-10815,Can I integrate this tool with Slack and Microsoft Teams? Thank you in advance.,product,high,21.4
+TKT-10816,What is the difference between Pro and Enterprise plans? Reference: TKT-53478 I have been waiting for 3 days.,product,high,14.4
+TKT-10817,I was charged twice for my subscription this month. Please refund the extra amount. I have been waiting for 3 days.,billing,low,66.6
+TKT-10818,Payment failed but money was deducted from my account. Please help. Looking forward to your response.,billing,medium,26.4
+TKT-10819,Do you offer white-label solution for agencies? Reference: TKT-98250 This is affecting my business.,product,high,5.1
+TKT-10820,Received a bill for a service I never signed up for. Reference: TKT-86756,billing,medium,24.1
+TKT-10821,My invoice shows incorrect tax calculation. Can you fix it? This is affecting my business.,billing,high,20.1
+TKT-10822,Received a bill for a service I never signed up for. Looking forward to your response.,billing,medium,12.2
+TKT-10823,Need to update company name and address in profile. I am a premium customer.,account,high,10.7
+TKT-10824,I want to change from monthly to annual billing. Reference: TKT-61248 Kindly look into this matter.,billing,medium,26.3
+TKT-10825,I need to add a new team member with admin privileges. Looking forward to your response.,account,urgent,4.5
+TKT-10826,I forgot my password and the reset email is not arriving. Thank you in advance.,account,urgent,7.4
+TKT-10827,The application keeps crashing whenever I try to upload a large file.,technical,low,48.9
+TKT-10828,Need GST invoice for my company purchase. Reference: TKT-94663 This is affecting my business.,billing,medium,24.5
+TKT-10829,API integration is failing with authentication error.,technical,low,77.1
+TKT-10830,File upload progress bar stuck at 99%.,technical,low,56.6
+TKT-10831,What is the difference between Pro and Enterprise plans? Looking forward to your response.,product,high,8.5
+TKT-10832,I need to merge two accounts into one.,account,low,56.6
+TKT-10833,How can I view login history of my account? Reference: TKT-91201 Kindly look into this matter.,account,medium,17.1
+TKT-10834,I cancelled my plan but still got billed. Requesting refund. Please escalate this issue.,billing,urgent,1.8
+TKT-10835,I need to add a new team member with admin privileges.,account,high,14.0
+TKT-10836,I need to add a new team member with admin privileges. This is urgent.,account,urgent,3.6
+TKT-10837,File upload progress bar stuck at 99%. Reference: TKT-57118 I am a premium customer.,technical,high,22.3
+TKT-10838,I cannot export reports in PDF format. Button does nothing. Please escalate this issue.,technical,high,11.2
+TKT-10839,Need to update company name and address in profile. Reference: TKT-94613 Thank you in advance.,account,high,15.6
+TKT-10840,I was charged for premium features I didn't use. I have been waiting for 3 days.,billing,high,16.6
+TKT-10841,Chrome extension is not syncing with the web app. Please help as soon as possible.,technical,medium,12.5
+TKT-10842,Received a bill for a service I never signed up for. This is urgent.,billing,high,17.3
+TKT-10843,Can I integrate this tool with Slack and Microsoft Teams? This is urgent.,product,high,7.6
+TKT-10844,Is there a dark mode available in the application? This is affecting my business.,product,high,23.2
+TKT-10845,I want to enable two-factor authentication. Reference: TKT-57692 Thank you in advance.,account,low,34.7
+TKT-10846,I was charged for premium features I didn't use.,billing,high,12.3
+TKT-10847,Dashboard is loading very slowly for the past two days.,technical,medium,15.1
+TKT-10848,Search functionality is not returning correct results. Reference: TKT-73916 This is affecting my business.,technical,high,23.9
+TKT-10849,I cannot export reports in PDF format. Button does nothing. Reference: TKT-37102 Kindly look into this matter.,technical,low,60.2
+TKT-10850,I cannot change my username. Is it permanent? Please escalate this issue.,account,medium,33.4
+TKT-10851,I cancelled my plan but still got billed. Requesting refund. Please help as soon as possible.,billing,urgent,1.0
+TKT-10852,I am unable to verify my phone number for 2FA.,account,high,19.0
+TKT-10853,Getting CORS error when calling the public API. This is affecting my business.,technical,medium,19.6
+TKT-10854,There is a discrepancy in the billing amount for enterprise plan. Kindly look into this matter.,billing,medium,44.3
+TKT-10855,My account was locked after multiple failed login attempts. Please escalate this issue.,account,high,8.1
+TKT-10856,I need a copy of last month's invoice for accounting purposes. Reference: TKT-20104 Please escalate this issue.,billing,medium,18.9
+TKT-10857,I need to add a new team member with admin privileges. I have been waiting for 3 days.,account,low,26.6
+TKT-10858,There is a discrepancy in the billing amount for enterprise plan. This is affecting my business.,billing,high,13.4
+TKT-10859,What are the data retention policies? Kindly look into this matter.,product,high,15.3
+TKT-10860,Does the free plan include access to the API? I have been waiting for 3 days.,product,low,28.7
+TKT-10861,Webhooks are not being triggered for new events. This is urgent.,technical,low,79.8
+TKT-10862,Mobile app freezes on the home screen after latest update. I have been waiting for 3 days.,technical,low,56.6
+TKT-10863,Is there a public roadmap for upcoming features? This is urgent.,product,medium,30.9
+TKT-10864,Please delete my account permanently as per GDPR. Please escalate this issue.,account,urgent,3.8
+TKT-10865,Is there a dark mode available in the application? Kindly look into this matter.,product,urgent,3.5
+TKT-10866,Getting timeout errors during peak hours. I have been waiting for 3 days.,technical,high,15.2
+TKT-10867,How can I view login history of my account? This is affecting my business.,account,low,35.2
+TKT-10868,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-36522 I have been waiting for 3 days.,billing,low,37.1
+TKT-10869,Is there a public roadmap for upcoming features? Reference: TKT-90576 Please help as soon as possible.,product,high,21.2
+TKT-10870,I want to change from monthly to annual billing. Thank you in advance.,billing,urgent,7.6
+TKT-10871,I need a copy of last month's invoice for accounting purposes.,billing,medium,25.4
+TKT-10872,The promotional discount was not applied to my bill. I am a premium customer.,billing,urgent,2.5
+TKT-10873,I need to merge two accounts into one. Thank you in advance.,account,urgent,5.3
+TKT-10874,Do you offer white-label solution for agencies? This is affecting my business.,product,high,12.2
+TKT-10875,How do I update my credit card details for auto-renewal? Please escalate this issue.,billing,medium,12.9
+TKT-10876,Please pause my subscription and stop billing temporarily. Thank you in advance.,billing,medium,17.6
+TKT-10877,Real-time notifications are delayed by several minutes. This is urgent.,technical,low,75.6
+TKT-10878,There is a discrepancy in the billing amount for enterprise plan. Kindly look into this matter.,billing,medium,35.7
+TKT-10879,How can I change the email address linked to my account? I have been waiting for 3 days.,account,medium,13.0
+TKT-10880,I want to enable two-factor authentication. I am a premium customer.,account,medium,20.0
+TKT-10881,How do I transfer ownership of the account to another person? Kindly look into this matter.,account,urgent,2.2
+TKT-10882,Can I customize the dashboard widgets? Thank you in advance.,product,low,72.4
+TKT-10883,Account recovery options are not working. I am a premium customer.,account,medium,12.7
+TKT-10884,Can you explain the extra charges on my recent invoice? Reference: TKT-76629 I have been waiting for 3 days.,billing,high,6.1
+TKT-10885,Can I export all my data in bulk? Thank you in advance.,product,high,20.0
+TKT-10886,Received a bill for a service I never signed up for. This is urgent.,billing,low,36.9
+TKT-10887,SSO login with Google is broken since yesterday. Reference: TKT-44483 I am a premium customer.,technical,medium,35.5
+TKT-10888,SSO login with Google is broken since yesterday. This is urgent.,technical,medium,20.6
+TKT-10889,Can I customize the dashboard widgets? Looking forward to your response.,product,high,6.0
+TKT-10890,I was charged for premium features I didn't use. I have been waiting for 3 days.,billing,urgent,2.3
+TKT-10891,Is there a desktop application available? Reference: TKT-14405 Thank you in advance.,product,low,76.0
+TKT-10892,File upload progress bar stuck at 99%. This is urgent.,technical,high,21.1
+TKT-10893,My invoice shows incorrect tax calculation. Can you fix it? Looking forward to your response.,billing,urgent,6.7
+TKT-10894,How do I transfer ownership of the account to another person? Reference: TKT-12014,account,high,11.9
+TKT-10895,I want to change from monthly to annual billing. Looking forward to your response.,billing,urgent,5.5
+TKT-10896,Please remove the old admin who left the company. Reference: TKT-35496 Looking forward to your response.,account,medium,19.4
+TKT-10897,Is there a public roadmap for upcoming features? Reference: TKT-63363 This is urgent.,product,urgent,2.7
+TKT-10898,I want to change from monthly to annual billing. Looking forward to your response.,billing,medium,44.3
+TKT-10899,How do I update my credit card details for auto-renewal? Thank you in advance.,billing,high,4.3
+TKT-10900,How do I transfer ownership of the account to another person?,account,high,5.7
+TKT-10901,The system is showing old data even after refresh. Please escalate this issue.,technical,high,8.2
+TKT-10902,How do I update my credit card details for auto-renewal? Please help as soon as possible.,billing,medium,13.0
+TKT-10903,API integration is failing with authentication error. This is affecting my business.,technical,high,7.6
+TKT-10904,I forgot my password and the reset email is not arriving. Reference: TKT-22190 Looking forward to your response.,account,medium,33.0
+TKT-10905,Is there a desktop application available? Reference: TKT-33394 This is affecting my business.,product,high,12.4
+TKT-10906,Can I integrate this tool with Slack and Microsoft Teams? Reference: TKT-99536,product,medium,44.1
+TKT-10907,API integration is failing with authentication error. Kindly look into this matter.,technical,medium,41.4
+TKT-10908,Please delete my account permanently as per GDPR. Kindly look into this matter.,account,low,48.6
+TKT-10909,How can I change the email address linked to my account? Please help as soon as possible.,account,low,42.7
+TKT-10910,Can I export all my data in bulk? Thank you in advance.,product,high,11.6
+TKT-10911,Is offline mode supported on the mobile app? Please escalate this issue.,product,medium,33.3
+TKT-10912,Account recovery options are not working. Reference: TKT-39110 Thank you in advance.,account,medium,21.7
+TKT-10913,The system is showing old data even after refresh. I am a premium customer.,technical,low,68.9
+TKT-10914,There is a discrepancy in the billing amount for enterprise plan. I have been waiting for 3 days.,billing,medium,26.7
+TKT-10915,Can you explain the extra charges on my recent invoice? This is affecting my business.,billing,high,15.0
+TKT-10916,There is a discrepancy in the billing amount for enterprise plan. Reference: TKT-57395,billing,high,12.7
+TKT-10917,I am unable to verify my phone number for 2FA. Reference: TKT-90358 Kindly look into this matter.,account,low,45.2
+TKT-10918,Need to update company name and address in profile. Reference: TKT-58799 I am a premium customer.,account,medium,46.1
+TKT-10919,I am unable to verify my phone number for 2FA. Reference: TKT-27188 Please escalate this issue.,account,urgent,6.2
+TKT-10920,Real-time notifications are delayed by several minutes. Looking forward to your response.,technical,high,6.8
+TKT-10921,Can I integrate this tool with Slack and Microsoft Teams? I have been waiting for 3 days.,product,urgent,7.0
+TKT-10922,The application keeps crashing whenever I try to upload a large file. I have been waiting for 3 days.,technical,medium,29.5
+TKT-10923,Getting timeout errors during peak hours. Thank you in advance.,technical,urgent,7.2
+TKT-10924,I am unable to verify my phone number for 2FA. Looking forward to your response.,account,high,20.0
+TKT-10925,Need GST invoice for my company purchase. Reference: TKT-43330 I have been waiting for 3 days.,billing,medium,27.3
+TKT-10926,What is the difference between Pro and Enterprise plans? Please escalate this issue.,product,high,4.4
+TKT-10927,I want to enable two-factor authentication. Thank you in advance.,account,medium,21.7
+TKT-10928,How do I transfer ownership of the account to another person? Please help as soon as possible.,account,medium,31.5
+TKT-10929,File upload progress bar stuck at 99%. Reference: TKT-47304 Thank you in advance.,technical,medium,34.8
+TKT-10930,I want to enable two-factor authentication. Please escalate this issue.,account,medium,21.3
+TKT-10931,Do you offer white-label solution for agencies? Reference: TKT-92799,product,urgent,1.5
+TKT-10932,File upload progress bar stuck at 99%. This is affecting my business.,technical,urgent,6.8
+TKT-10933,What is the difference between Pro and Enterprise plans? Reference: TKT-39912 Please help as soon as possible.,product,high,23.7
+TKT-10934,I am unable to verify my phone number for 2FA. Looking forward to your response.,account,medium,30.9
+TKT-10935,What are the data retention policies? This is affecting my business.,product,medium,18.2
+TKT-10936,Is there a dark mode available in the application? Reference: TKT-40753 This is urgent.,product,medium,21.8
+TKT-10937,I need to merge two accounts into one. Reference: TKT-62041 Please help as soon as possible.,account,urgent,0.6
+TKT-10938,Please pause my subscription and stop billing temporarily. Please escalate this issue.,billing,low,89.8
+TKT-10939,I want to change from monthly to annual billing. Reference: TKT-91015 Please help as soon as possible.,billing,high,6.4
+TKT-10940,Chrome extension is not syncing with the web app. I am a premium customer.,technical,low,65.5
+TKT-10941,Search functionality is not returning correct results. Reference: TKT-32361 I have been waiting for 3 days.,technical,high,9.5
+TKT-10942,I cancelled my plan but still got billed. Requesting refund. This is affecting my business.,billing,low,63.9
+TKT-10943,Can I customize the dashboard widgets? Looking forward to your response.,product,urgent,5.4
+TKT-10944,Real-time notifications are delayed by several minutes. Reference: TKT-88326 Thank you in advance.,technical,urgent,6.7
+TKT-10945,Does the tool support multi-language interface?,product,high,8.1
+TKT-10946,Need to update company name and address in profile. Reference: TKT-21738 Thank you in advance.,account,urgent,0.6
+TKT-10947,Do you offer white-label solution for agencies? Reference: TKT-11383 Looking forward to your response.,product,medium,16.9
+TKT-10948,The promotional discount was not applied to my bill. I have been waiting for 3 days.,billing,medium,44.4
+TKT-10949,How does the AI feature work and is it included? Please escalate this issue.,product,medium,43.5
+TKT-10950,Can I export all my data in bulk? I am a premium customer.,product,medium,33.5
+TKT-10951,Webhooks are not being triggered for new events. Reference: TKT-83472 This is affecting my business.,technical,high,16.0
+TKT-10952,Is there a dark mode available in the application? I am a premium customer.,product,medium,35.9
+TKT-10953,Getting CORS error when calling the public API. Kindly look into this matter.,technical,medium,18.3
+TKT-10954,I need to merge two accounts into one. Thank you in advance.,account,medium,44.9
+TKT-10955,What is the difference between Pro and Enterprise plans? Reference: TKT-24464 I have been waiting for 3 days.,product,low,54.2
+TKT-10956,How many users can I add on the current plan?,product,high,11.7
+TKT-10957,I forgot my password and the reset email is not arriving. Reference: TKT-23405 Thank you in advance.,account,low,61.4
+TKT-10958,I need to merge two accounts into one. Please escalate this issue.,account,medium,13.7
+TKT-10959,The application keeps crashing whenever I try to upload a large file. Reference: TKT-65082 Please escalate this issue.,technical,low,36.0
+TKT-10960,Need to update company name and address in profile. This is affecting my business.,account,high,18.8
+TKT-10961,I was charged for premium features I didn't use. Reference: TKT-61435 I have been waiting for 3 days.,billing,medium,15.0
+TKT-10962,I need a copy of last month's invoice for accounting purposes. Kindly look into this matter.,billing,medium,33.7
+TKT-10963,Please remove the old admin who left the company. Reference: TKT-42631 This is urgent.,account,high,8.9
+TKT-10964,What are the data retention policies? Kindly look into this matter.,product,high,11.8
+TKT-10965,Need GST invoice for my company purchase. Please help as soon as possible.,billing,low,44.8
+TKT-10966,File upload progress bar stuck at 99%. Looking forward to your response.,technical,medium,24.8
+TKT-10967,The application keeps crashing whenever I try to upload a large file. Thank you in advance.,technical,high,18.4
+TKT-10968,I am unable to verify my phone number for 2FA. Kindly look into this matter.,account,medium,22.7
+TKT-10969,Payment failed but money was deducted from my account. Please help. Reference: TKT-66906 Please help as soon as possible.,billing,urgent,4.7
+TKT-10970,Account recovery options are not working. Looking forward to your response.,account,low,58.3
+TKT-10971,Does the free plan include access to the API? This is urgent.,product,high,17.3
+TKT-10972,Is there a dark mode available in the application? This is affecting my business.,product,high,22.7
+TKT-10973,I am unable to login. Getting error 500 internal server error.,technical,low,76.7
+TKT-10974,Received a bill for a service I never signed up for. I have been waiting for 3 days.,billing,low,39.5
+TKT-10975,Payment failed but money was deducted from my account. Please help. This is affecting my business.,billing,low,26.2
+TKT-10976,Need to update company name and address in profile. Reference: TKT-59514 Kindly look into this matter.,account,high,9.2
+TKT-10977,I am unable to verify my phone number for 2FA. This is urgent.,account,high,15.9
+TKT-10978,Can I customize the dashboard widgets? Reference: TKT-34461 Please escalate this issue.,product,medium,13.9
+TKT-10979,Need to update company name and address in profile. Looking forward to your response.,account,medium,29.9
+TKT-10980,Dashboard is loading very slowly for the past two days. Reference: TKT-44517 Please escalate this issue.,technical,low,67.0
+TKT-10981,Account recovery options are not working. Thank you in advance.,account,medium,24.0
+TKT-10982,SSO login with Google is broken since yesterday. This is affecting my business.,technical,urgent,6.3
+TKT-10983,I am unable to login. Getting error 500 internal server error. Thank you in advance.,technical,medium,15.8
+TKT-10984,Search functionality is not returning correct results. Reference: TKT-47110 Thank you in advance.,technical,medium,14.7
+TKT-10985,My account was locked after multiple failed login attempts. Reference: TKT-96362 Please help as soon as possible.,account,medium,38.2
+TKT-10986,I need a copy of last month's invoice for accounting purposes. I have been waiting for 3 days.,billing,low,59.7
+TKT-10987,API integration is failing with authentication error. Reference: TKT-94115 Please help as soon as possible.,technical,low,73.6
+TKT-10988,Can I customize the dashboard widgets?,product,high,12.7
+TKT-10989,Please delete my account permanently as per GDPR.,account,low,41.7
+TKT-10990,Payment failed but money was deducted from my account. Please help. Please escalate this issue.,billing,urgent,6.6
+TKT-10991,Received a bill for a service I never signed up for. This is urgent.,billing,medium,40.8
+TKT-10992,Can I export all my data in bulk? This is urgent.,product,high,17.9
+TKT-10993,I need to merge two accounts into one. Please help as soon as possible.,account,medium,21.8
+TKT-10994,I want to change from monthly to annual billing. Reference: TKT-40279 Please help as soon as possible.,billing,urgent,4.9
+TKT-10995,Can I customize the dashboard widgets? Kindly look into this matter.,product,low,50.0
+TKT-10996,Webhooks are not being triggered for new events. I am a premium customer.,technical,medium,15.3
+TKT-10997,I need to merge two accounts into one. I am a premium customer.,account,high,22.3
+TKT-10998,Webhooks are not being triggered for new events. I am a premium customer.,technical,high,6.7
+TKT-10999,SSO login with Google is broken since yesterday. Please escalate this issue.,technical,medium,46.2
+TKT-11000,My account was locked after multiple failed login attempts. This is affecting my business.,account,medium,28.1

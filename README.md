@@ -21,7 +21,7 @@ A complete medium-level AI project that automatically classifies support tickets
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ticket_triage_project/
@@ -66,13 +66,13 @@ This will:
 
 ### 4. Launch the Streamlit app
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 The app will open in your browser (usually http://localhost:8501).
 
 ---
 
-## 🧪 How to Use the Dashboard
+#  How to Use the Dashboard
 
 1. Paste a support ticket (or select a sample)
 2. Click **Predict & Route**
@@ -85,7 +85,7 @@ The app will open in your browser (usually http://localhost:8501).
 
 ---
 
-## 📊 Model Details
+##  Model Details
 
 | Model              | Algorithm              | Features     |
 |--------------------|------------------------|--------------|
@@ -97,7 +97,7 @@ Any prediction below this threshold is flagged for human review.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.8+
 - pandas
@@ -108,7 +108,7 @@ Any prediction below this threshold is flagged for human review.
 
 ---
 
-## 📝 Notes for Submission / Internship
+##  Notes-
 
 - All code is modular and well-commented
 - Fully offline (no paid APIs)
@@ -120,7 +120,7 @@ Any prediction below this threshold is flagged for human review.
 
 ---
 
-## 🚀 Next Improvements (Optional)
+##  Next Improvements-
 
 - Add hyperparameter tuning with GridSearchCV
 - Use sentence-transformers embeddings
@@ -129,4 +129,4 @@ Any prediction below this threshold is flagged for human review.
 
 ---
 
-**Made for IBM / Mindenious AI Internship Capstone Project**
+**Mindenious AI Internship Capstone Project**

@@ -1,14 +1,14 @@
-# 🎫 AI Customer Support Ticket Triage
+#  AI Customer Support Ticket Triage
 
 A complete medium-level AI project that automatically classifies support tickets into categories and predicts urgency/priority, then routes them to the correct queue.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **Goal:** Build an AI system that reads incoming support tickets, predicts their **category** and **urgency**, and routes them to the appropriate support queue.
 
-### Features
+** Features
 - Synthetic dataset of 1000 realistic support tickets
 - Text cleaning + TF-IDF features
 - Two separate models:
@@ -40,7 +40,7 @@ ticket_triage_project/
 
 ---
 
-## ⚙️ How to Run (Step-by-Step)
+##  How to Run (Step-by-Step)
 
 ### 1. Install dependencies
 ```bash
@@ -68,8 +68,6 @@ This will:
 ```bash
 python -m streamlit run app.py
 ```
-The app will open in your browser (usually http://localhost:8501).
-
 ---
 
 #  How to Use the Dashboard
